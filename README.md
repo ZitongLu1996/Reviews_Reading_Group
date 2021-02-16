@@ -1,9 +1,12 @@
 # Reviews_Reading_Group
 Memory&amp;Perception相关综述文献阅读小组
 
-* 组织者：路子童（华东师范大学，研三）
+* 组织者：
 
-* 小组成员：  
+&emsp;&emsp;&emsp;&emsp;路子童（华东师范大学，研三）
+
+* 小组成员：
+
 &emsp;&emsp;&emsp;&emsp;路子童 - 华东师范大学，研三  
 &emsp;&emsp;&emsp;&emsp;杨力 - 加州大学河滨分校，博三  
 &emsp;&emsp;&emsp;&emsp;李嘉琪 -	北京大学，博三  
@@ -21,11 +24,13 @@ Memory&amp;Perception相关综述文献阅读小组
 &emsp;&emsp;&emsp;&emsp;黄静雅 - 华南师范大学，研一  
 &emsp;&emsp;&emsp;&emsp;黄杰 - 苏州大学，博一
 
-* 报告形式：  
-&emsp;&emsp;&emsp;&emsp;时间：每周日晚19：00（北京时间），腾讯会议
+* 报告形式：
+
+&emsp;&emsp;&emsp;&emsp;时间：每周日晚19：00（北京时间），腾讯会议  
 &emsp;&emsp;&emsp;&emsp;形式：每次由3位同学以PPT形式汇报一篇Review文献，讲清文章探讨的问题脉络，对各种观点的经典/关键性的引用及对应的实验与发现也需要阅读相应参考文献在报告中体现出来。相当于每周一个专题，大家一起深入了解这个问题下的争论与研究发展。
 
-* 报告安排：  
+* 报告安排：
+
 &emsp;&emsp;&emsp;&emsp;第1期：Theta Oscillations in Human Memory.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.tics.2019.12.006  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：梁耀文，王世玉，何贤辉  
