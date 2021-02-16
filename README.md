@@ -24,12 +24,12 @@ Memory&amp;Perception相关综述文献阅读小组
 &emsp;&emsp;&emsp;&emsp;黄静雅 - 华南师范大学，研一  
 &emsp;&emsp;&emsp;&emsp;黄杰 - 苏州大学，博一
 
-* 报告形式：
+* 小组活动形式：
 
 &emsp;&emsp;&emsp;&emsp;时间：每周日晚19：00（北京时间），腾讯会议  
 &emsp;&emsp;&emsp;&emsp;形式：每次由3位同学以PPT形式汇报一篇Review文献，讲清文章探讨的问题脉络，对各种观点的经典/关键性的引用及对应的实验与发现也需要阅读相应参考文献在报告中体现出来。相当于每周一个专题，大家一起深入了解这个问题下的争论与研究发展。
 
-* 报告安排：
+* 阅读分享安排：
 
 &emsp;&emsp;&emsp;&emsp;第1期：Theta Oscillations in Human Memory.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.tics.2019.12.006  
