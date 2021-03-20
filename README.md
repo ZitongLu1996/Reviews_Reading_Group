@@ -22,7 +22,8 @@
 &emsp;&emsp;&emsp;&emsp;沈云云 - 华东师范大学，研三  
 &emsp;&emsp;&emsp;&emsp;陈新文 - 华南师范大学，研二  
 &emsp;&emsp;&emsp;&emsp;黄静雅 - 华南师范大学，研一  
-&emsp;&emsp;&emsp;&emsp;黄杰 - 苏州大学，博一
+&emsp;&emsp;&emsp;&emsp;黄杰 - 苏州大学，博一  
+&emsp;&emsp;&emsp;&emsp;聂露 - 中山大学，准博一
 
 * 小组活动形式：
 
@@ -38,19 +39,23 @@
 
 &emsp;&emsp;&emsp;&emsp;第2期：The Face of Image Reconstruction: Progress, Pitfalls, Prospects.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.tics.2020.06.006  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：陈新文，杨力，路子童
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：陈新文，杨力，路子童  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2月28日晚19：30（北京时间）
 
 &emsp;&emsp;&emsp;&emsp;第3期：Face and Voice Perception: Understanding Commonalities and Differences.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.tics.2020.02.001  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：哈斯巴根，杨宇宏，王世玉
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：哈斯巴根，杨宇宏，王世玉  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：3月7日晚19：00（北京时间）
 
 &emsp;&emsp;&emsp;&emsp;第4期：Shared Neural Mechanisms of Visual Perception and Imagery.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.tics.2019.02.004  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李嘉琪，赵福君，罗熙康
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李嘉琪，赵福君，罗熙康  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：3月14日晚19：00（北京时间）
 
 &emsp;&emsp;&emsp;&emsp;第5期：Understanding Image Memorability.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.tics.2020.04.001  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：陈新文，黄静雅，路子童
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：陈新文，黄静雅，路子童  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：3月21日晚18：00（北京时间）
 
 &emsp;&emsp;&emsp;&emsp;第6期：Effects of Language on Visual Perception.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.tics.2020.08.005  
