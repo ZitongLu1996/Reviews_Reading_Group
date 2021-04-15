@@ -65,12 +65,12 @@
 &emsp;&emsp;&emsp;&emsp;第7期：What Are Memories For? The Hippocampus Bridges Past Experience with Future Decisions.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.tics.2020.04.004  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：杨力，李嘉琪，陈慧芳  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：预计4月11日
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：4月11日晚19：00（北京时间）
 
 &emsp;&emsp;&emsp;&emsp;第8期：Oscillatory Control over Representational States in Working Memory.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.tics.2019.11.006  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：赵福君，罗熙康，黄静雅  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：预计4月18日
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：预计4月18日晚19：00
 
 &emsp;&emsp;&emsp;&emsp;第9期：Factors Determining Where Category-Selective Areas Emerge in Visual Cortex.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.tics.2019.06.006  
