@@ -3,27 +3,27 @@
 
 * 组织者：
 
-&emsp;&emsp;&emsp;&emsp;路子童（华东师范大学，研三）
+&emsp;&emsp;&emsp;&emsp;路子童（俄亥俄州立大学，博一）
 
 * 小组成员：
 
-&emsp;&emsp;&emsp;&emsp;路子童 - 华东师范大学，研三  
-&emsp;&emsp;&emsp;&emsp;杨力 - 加州大学河滨分校，博三  
-&emsp;&emsp;&emsp;&emsp;李嘉琪 -	北京大学，博三  
+&emsp;&emsp;&emsp;&emsp;路子童 - 俄亥俄州立大学，博一  
+&emsp;&emsp;&emsp;&emsp;杨力 - 加州大学河滨分校，博四  
+&emsp;&emsp;&emsp;&emsp;李嘉琪 -	北京大学，博四  
 &emsp;&emsp;&emsp;&emsp;梁耀文 -	辽宁师范大学，研三  
-&emsp;&emsp;&emsp;&emsp;哈斯巴根 - 华南师范大学，研一  
+&emsp;&emsp;&emsp;&emsp;哈斯巴根 - 华南师范大学，研二  
 &emsp;&emsp;&emsp;&emsp;赵福君 - 北京儿童医院睡眠中心，住院医  
-&emsp;&emsp;&emsp;&emsp;王世玉 - 华东师范大学，研二  
-&emsp;&emsp;&emsp;&emsp;罗熙康 - 上海纽约大学，intern  
-&emsp;&emsp;&emsp;&emsp;何贤辉 - 浙江大学，大四  
-&emsp;&emsp;&emsp;&emsp;陈慧芳 - 山东师范大学，研二  
+&emsp;&emsp;&emsp;&emsp;王世玉 - 华东师范大学，研三  
+&emsp;&emsp;&emsp;&emsp;罗熙康 - 华东师范大学，研一  
+&emsp;&emsp;&emsp;&emsp;何贤辉 - 浙江大学，研一  
+&emsp;&emsp;&emsp;&emsp;陈慧芳 - 山东师范大学，研三  
 &emsp;&emsp;&emsp;&emsp;杨宇宏 - 奥胡斯大学，已毕业  
-&emsp;&emsp;&emsp;&emsp;史春妍 - 华南师范大学，研一  
-&emsp;&emsp;&emsp;&emsp;沈云云 - 华东师范大学，研三  
-&emsp;&emsp;&emsp;&emsp;陈新文 - 华南师范大学，研二  
-&emsp;&emsp;&emsp;&emsp;黄静雅 - 华南师范大学，研一  
-&emsp;&emsp;&emsp;&emsp;黄杰 - 苏州大学，博一  
-&emsp;&emsp;&emsp;&emsp;聂露 - 中山大学，准博一
+&emsp;&emsp;&emsp;&emsp;史春妍 - 华南师范大学，研二  
+&emsp;&emsp;&emsp;&emsp;沈云云 - 法国国家研究中心，博一  
+&emsp;&emsp;&emsp;&emsp;陈新文 - 华南师范大学，研三  
+&emsp;&emsp;&emsp;&emsp;黄静雅 - 华南师范大学，研二  
+&emsp;&emsp;&emsp;&emsp;黄杰 - 苏州大学，博二  
+&emsp;&emsp;&emsp;&emsp;聂露 - 中山大学，博一
 
 * 小组活动形式：
 
