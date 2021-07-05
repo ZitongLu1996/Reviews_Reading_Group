@@ -8,7 +8,7 @@
 * 小组成员：
 
 &emsp;&emsp;&emsp;&emsp;路子童 - 俄亥俄州立大学，博一  
-&emsp;&emsp;&emsp;&emsp;杨力 - 加州大学河滨分校，博四  
+&emsp;&emsp;&emsp;&emsp;杨力 - 加州大学河滨分校，博三  
 &emsp;&emsp;&emsp;&emsp;李嘉琪 -	北京大学，博四  
 &emsp;&emsp;&emsp;&emsp;梁耀文 -	辽宁师范大学，研三  
 &emsp;&emsp;&emsp;&emsp;哈斯巴根 - 华南师范大学，研二  
