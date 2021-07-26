@@ -108,23 +108,14 @@
 
 &emsp;&emsp;&emsp;&emsp;第16期：[Method+Coding] Bayesian Model.    
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：罗熙康  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：7月11日晚19：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：7月18日晚19：00
 
 &emsp;&emsp;&emsp;&emsp;第17期：Structuring Knowledge with Cognitive Maps and Cognitive Graphs.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.tics.2020.10.004     
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：沈云云，路子童，李嘉琪  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：7月18日晚19：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：7月24日晚19：00
 
 &emsp;&emsp;&emsp;&emsp;第18期：Visual and Semantic Contributions to Visual Short-Term Memory.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.tics.2021.01.010     
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：黄杰  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：7月25日晚19：00
-
-&emsp;&emsp;&emsp;&emsp;第19期：[Method+Coding] Comparing the Brain and the DCNN using RSA.    
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：8月1日晚19：00
-
-&emsp;&emsp;&emsp;&emsp;第20期：Memory as a Computational Resource.  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.tics.2020.12.008     
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：罗熙康，史春妍  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：8月8日晚19：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：8月3日早9：00
