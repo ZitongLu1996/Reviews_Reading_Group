@@ -26,7 +26,7 @@
 &emsp;&emsp;&emsp;&emsp;彭泰 - 台湾国立清华大学，研三  
 &emsp;&emsp;&emsp;&emsp;孙政辉 - 南京师范大学，博三  
 &emsp;&emsp;&emsp;&emsp;孙嘉秋 - 上海纽约大学，博二  
-&emsp;&emsp;&emsp;&emsp;李思成 - 天津大学，博三  
+&emsp;&emsp;&emsp;&emsp;李思成 - 天津大学，研三  
 &emsp;&emsp;&emsp;&emsp;李婉如 - 北京大学，博一  
 
 * 曾经的成员：
