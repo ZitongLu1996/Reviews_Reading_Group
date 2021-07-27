@@ -23,7 +23,7 @@
 &emsp;&emsp;&emsp;&emsp;雷晓璇 - 麦吉尔大学，博一  
 &emsp;&emsp;&emsp;&emsp;杜彧 - 亚利桑那大学，博后  
 &emsp;&emsp;&emsp;&emsp;程羽慧 - 中科院心理所，博二  
-&emsp;&emsp;&emsp;&emsp;彭泰 - 台湾国立清华大学，研三 
+&emsp;&emsp;&emsp;&emsp;彭泰 - 台湾国立清华大学，研三  
 &emsp;&emsp;&emsp;&emsp;孙政辉 - 南京师范大学，博三  
 &emsp;&emsp;&emsp;&emsp;孙嘉秋 - 上海纽约大学，博二  
 &emsp;&emsp;&emsp;&emsp;李思成 - 天津大学，博三  
