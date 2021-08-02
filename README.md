@@ -133,7 +133,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2021年8月3日早9：00
 
 &emsp;&emsp;&emsp;&emsp;第19期：Speech rhythms and their neural foundations.  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/ s41583-020-0304-4     
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41583-020-0304-4     
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李思成，孙政辉  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2021年8月10日早9：00
 
