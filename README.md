@@ -212,8 +212,8 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童，杜彧  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2021年12月10日早8：30
 
-&emsp;&emsp;&emsp;&emsp;第35期：Visual Search: How Do We Find What We Are Looking For?  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1146/annurev-vision-091718-015048     
+&emsp;&emsp;&emsp;&emsp;第35期：Generalization Through the Recurrent Interaction of Episodic Memories: A Model of the Hippocampal System.  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1037/a0028681     
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：黄杰，聂露  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2021年12月17日早8：30
 
