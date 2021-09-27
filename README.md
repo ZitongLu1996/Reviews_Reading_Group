@@ -214,7 +214,7 @@
 
 &emsp;&emsp;&emsp;&emsp;第35期：Generalization Through the Recurrent Interaction of Episodic Memories: A Model of the Hippocampal System.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1037/a0028681     
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：黄杰，聂露  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：雷晓璇，刘庆芳  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2021年12月17日早8：30
 
 &emsp;&emsp;&emsp;&emsp;第36期：The nature of metacognitive inefficiency in perceptual decision making.  
