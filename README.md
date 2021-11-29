@@ -26,6 +26,8 @@
 &emsp;&emsp;&emsp;&emsp;孙嘉秋 - 上海纽约大学，博二  
 &emsp;&emsp;&emsp;&emsp;李思成 - 天津大学，研三  
 &emsp;&emsp;&emsp;&emsp;李婉如 - 北京大学，博一  
+&emsp;&emsp;&emsp;&emsp;刘庆芳 - 西北大学，博后  
+&emsp;&emsp;&emsp;&emsp;万芊芊 - 俄亥俄州立大学，博二  
 
 * 曾经的成员：
 
