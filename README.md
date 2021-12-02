@@ -41,7 +41,7 @@
 
 * 小组活动形式：
 
-&emsp;&emsp;&emsp;&emsp;时间：每周五早上8：30（北京时间），腾讯会议  
+&emsp;&emsp;&emsp;&emsp;时间：每周六早上9：00（北京时间），腾讯会议  
 &emsp;&emsp;&emsp;&emsp;形式：每次由2位同学以PPT形式汇报一篇Review文献，讲清文章探讨的问题脉络，对各种观点的经典/关键性的引用及对应的实验与发现也需要阅读相应参考文献在报告中体现出来。相当于每周一个专题，大家一起深入了解这个问题下的争论与研究发展。
 
 * 阅读分享安排：
@@ -201,59 +201,59 @@
 &emsp;&emsp;&emsp;&emsp;第32期：Speech Computations of the Human Superior Temporal Gyrus.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1146/annurev-psych-022321-035256     
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：哈斯巴根，孙政辉  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2021年12月3日早8：30
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2021年12月4日早9：00
 
 &emsp;&emsp;&emsp;&emsp;第33期：Synchronisation of Neural Oscillations and Cross-modal Influences.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.tics.2020.03.003     
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：陈新文，程羽慧  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2021年12月10日早8：30
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2021年12月11日早9：00
 
 &emsp;&emsp;&emsp;&emsp;第34期：Shared worlds and shared minds: A theory of collective learning and a psychology of common knowledge.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1037/rev0000200     
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：史春妍，王世玉  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2021年12月17日早8：30
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2021年12月18日早9：00
 
 &emsp;&emsp;&emsp;&emsp;第35期：Event Perception and Memory.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1146/annurev-psych-010419-051101     
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童，杜彧  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2021年12月24日早8：30
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2021年1月8日早9：00
 
 &emsp;&emsp;&emsp;&emsp;第36期：Generalization Through the Recurrent Interaction of Episodic Memories: A Model of the Hippocampal System.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1037/a0028681     
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：雷晓璇，刘庆芳  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年1月7日早8：30
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年1月15日早9：00
 
 &emsp;&emsp;&emsp;&emsp;第37期：The nature of metacognitive inefficiency in perceptual decision making.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1037/rev0000249     
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉，李婉如  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年1月14日早8：30
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年1月22日早9：00
 
 &emsp;&emsp;&emsp;&emsp;第38期：Nonmonotonic Plasticity: How Memory Retrieval Drives Learning.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.tics.2019.06.007   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：梁耀文，黄静雅   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年1月21日早8：30
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年1月29日早9：00
 
 &emsp;&emsp;&emsp;&emsp;第39期：Theory of Neural Coding Predicts an Upper Bound on Estimates of Memory Variability.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1146/annurev-psych-010419-051044     
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：彭泰，杨力  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年1月28日早8：30
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年2月12日早9：00
 
 &emsp;&emsp;&emsp;&emsp;第40期：Emotional Objectivity: Neural Representations of Emotions and Their Interaction with Cognition.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1146/annurev-psych-010419-051044     
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：史春妍，孙嘉秋  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年2月18日早8：30
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年2月19日早9：00
 
 &emsp;&emsp;&emsp;&emsp;第41期：Memory and representativeness.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1037/rev0000251     
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童，何贤辉  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年2月25日早8：30
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年2月26日早9：00
 
 &emsp;&emsp;&emsp;&emsp;第42期：Visual Functions of Primate Area V4.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1146/annurev-vision-030320-041306     
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：陈新文，李婉如  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年3月4日早8：30
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年3月5日早9：00
 
 &emsp;&emsp;&emsp;&emsp;第43期：Rethinking Space: A Review of Perception, Attention, and Memory in Scene Processing.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1146/annurev-vision-121219-081745     
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：彭泰，杜彧  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年3月11日早8：30
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年3月12日早9：00
