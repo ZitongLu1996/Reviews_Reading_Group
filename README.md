@@ -248,12 +248,37 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童，何贤辉  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年3月26日早9：00
 
-&emsp;&emsp;&emsp;&emsp;第42期：Visual Functions of Primate Area V4.  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1146/annurev-vision-030320-041306     
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：陈新文，李婉如  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年4月9日早9：00
+&emsp;&emsp;&emsp;&emsp;第42期：Orthogonal representations for robust context-dependent task performance in brains and neural networks.  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.neuron.2022.01.005     
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李婉如  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年4月9日早9：30
 
 &emsp;&emsp;&emsp;&emsp;第43期：Rethinking Space: A Review of Perception, Attention, and Memory in Scene Processing.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1146/annurev-vision-121219-081745     
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：彭泰，杜彧  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年4月16日早9：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年4月23日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第44期：[Invited Speaker Talk] Orbital cortical input to hippocampus mediates depression alleviation in patients.  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：韩思竹  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年4月30日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第45期：[Invited Speaker Talk]  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年5月7日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第46期：Alpha suppression indexes a spotlight of visual-spatial attention that can shine on both perceptual and memory representations.  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.3758/s13423-021-02034-4  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：黄静雅，何贤辉  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年5月20日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第47期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年5月27日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第48期：Does the temporal cortex make us human? A review of structural and functional diversity of the primate temporal lobe.  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.neubiorev.2021.08.032  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：哈斯巴根，孙政辉  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月4日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第49期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1146/annurev-vision-121219-081745     
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月11日早9：30
