@@ -262,7 +262,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：韩思竹  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年4月30日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第45期：[Invited Speaker Talk] 从机器行为到人类认知：客体识别中自涌现的关系表征
+&emsp;&emsp;&emsp;&emsp;第45期：[Invited Speaker Talk] 从机器行为到人类认知：客体识别中自涌现的关系表征  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：黄泰诚  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年5月7日早9：30
 
