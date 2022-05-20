@@ -269,16 +269,43 @@
 &emsp;&emsp;&emsp;&emsp;第46期：Alpha suppression indexes a spotlight of visual-spatial attention that can shine on both perceptual and memory representations.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.3758/s13423-021-02034-4  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：黄静雅，何贤辉  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年5月20日早9：30
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年5月21日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第47期：[Talk watching].  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年5月27日早9：30
+&emsp;&emsp;&emsp;&emsp;第47期：[Invited Speaker Talk] Evidence for chunking and repulsion of global and local representations in working memory.  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李宇航  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年5月24日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第48期：Does the temporal cortex make us human? A review of structural and functional diversity of the primate temporal lobe.  
+&emsp;&emsp;&emsp;&emsp;第48期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年5月28日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第49期：Does the temporal cortex make us human? A review of structural and functional diversity of the primate temporal lobe.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.neubiorev.2021.08.032  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：哈斯巴根，孙政辉  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月4日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第49期：[Talk watching].  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1146/annurev-vision-121219-081745     
+&emsp;&emsp;&emsp;&emsp;第50期：[Talk watching].    
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月11日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第51期：  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月18日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第52期：[Talk watching].   
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月25日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第53期：  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月2日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第54期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月9日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第55期：  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月16日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第56期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月23日早9：30
