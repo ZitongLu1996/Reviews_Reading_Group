@@ -315,7 +315,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月30日早9：30
 
 &emsp;&emsp;&emsp;&emsp;第58期：Two views on the cognitive brain  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41583-021-00448-6 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41583-021-00448-6  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：梁耀文，哈斯巴根  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年8月6日早9：30
 
