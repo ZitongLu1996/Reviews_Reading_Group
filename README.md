@@ -41,7 +41,7 @@
 
 * 小组活动形式：
 
-&emsp;&emsp;&emsp;&emsp;时间：每周六早上9：00（北京时间），腾讯会议  
+&emsp;&emsp;&emsp;&emsp;时间：每周六早上9：30（北京时间），腾讯会议  
 &emsp;&emsp;&emsp;&emsp;形式：每次由2位同学以PPT形式汇报一篇Review文献，讲清文章探讨的问题脉络，对各种观点的经典/关键性的引用及对应的实验与发现也需要阅读相应参考文献在报告中体现出来。相当于每周一个专题，大家一起深入了解这个问题下的争论与研究发展。
 
 * 阅读分享安排：
@@ -259,11 +259,11 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年4月23日早9：30
 
 &emsp;&emsp;&emsp;&emsp;第44期：[Invited Speaker Talk] Orbital cortical input to hippocampus mediates depression alleviation in patients.  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：韩思竹  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：韩思竹（上海交通大学精神卫生中心，博后）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年4月30日早9：30
 
 &emsp;&emsp;&emsp;&emsp;第45期：[Invited Speaker Talk] 从机器行为到人类认知：客体识别中自涌现的关系表征  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：黄泰诚  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：黄泰诚（清华大学脑与智能实验室，博后）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年5月7日早9：30
 
 &emsp;&emsp;&emsp;&emsp;第46期：Alpha suppression indexes a spotlight of visual-spatial attention that can shine on both perceptual and memory representations.  
@@ -272,40 +272,92 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年5月21日早9：30
 
 &emsp;&emsp;&emsp;&emsp;第47期：[Invited Speaker Talk] Evidence for chunking and repulsion of global and local representations in working memory.  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李宇航  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李宇航（澳门大学心理学系，博士在读）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年5月24日早9：30
 
 &emsp;&emsp;&emsp;&emsp;第48期：[Talk watching].  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年5月28日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第49期：Does the temporal cortex make us human? A review of structural and functional diversity of the primate temporal lobe.  
+&emsp;&emsp;&emsp;&emsp;第49期：[Invited Speaker Talk] Training RNN to perform hidden state inference.  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：刘越（纽约大学神经科学中心，博后）  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年5月31日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第50期：Does the temporal cortex make us human? A review of structural and functional diversity of the primate temporal lobe.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.neubiorev.2021.08.032  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：哈斯巴根，孙政辉  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月4日早9：30
-
-&emsp;&emsp;&emsp;&emsp;第50期：[Talk watching].    
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月11日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第51期：  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：  
+&emsp;&emsp;&emsp;&emsp;第51期：[Talk watching].    
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月18日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第52期：[Talk watching].   
+&emsp;&emsp;&emsp;&emsp;第52期：Guided Search 6.0: An updated model of visual search!  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.3758/s13423-020-01859-9  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：史春妍，万芊芊  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月25日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第53期：  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：  
+&emsp;&emsp;&emsp;&emsp;第53期：[Talk watching].   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月2日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第54期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;第54期：Capturing the objects of vision with neural networks  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41562-021-01194-6  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童，李婉如  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月9日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第55期：  
+&emsp;&emsp;&emsp;&emsp;第55期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月16日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第56期：Memory consolidation as an adaptive process  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.3758/s13423-021-01978-x  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：聂露，杨力  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月23日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第57期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月30日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第58期：Two views on the cognitive brain  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41583-021-00448-6 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：梁耀文，哈斯巴根  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年8月6日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第59期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年8月13日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第60期：The dimensionality of neural representations for control  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.cobeha.2020.07.002  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：张天宇，雷晓璇  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年8月20日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第61期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年9月3日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第62期：Human Representation Learning  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1146/annurev-neuro-092920-120559  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：刘庆芳，李思成  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年9月17日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第63期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年9月24日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第64期：How movements shape the perception of time  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.tics.2021.08.002  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：孙嘉秋，杜彧  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年10月8日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第65期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年10月15日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第66期：Visual category learning: Navigating the intersection of rules and similarity  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.3758/s13423-020-01838-0  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童，杨力  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年10月22日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第67期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月23日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第68期：  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月16日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第56期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;第69期：[Talk watching].  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月23日早9：30
