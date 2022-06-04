@@ -275,12 +275,12 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李宇航（澳门大学心理学系，博士在读）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年5月24日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第48期：[Talk watching].  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年5月28日早9：30
-
-&emsp;&emsp;&emsp;&emsp;第49期：[Invited Speaker Talk] Training RNN to perform hidden state inference.  
+&emsp;&emsp;&emsp;&emsp;第48期：[Invited Speaker Talk] Training RNN to perform hidden state inference.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：刘越（纽约大学神经科学中心，博后）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年5月31日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第49期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年5月28日早9：30
 
 &emsp;&emsp;&emsp;&emsp;第50期：Does the temporal cortex make us human? A review of structural and functional diversity of the primate temporal lobe.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.neubiorev.2021.08.032  
