@@ -279,16 +279,24 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：刘越（纽约大学神经科学中心，博后）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年5月31日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第49期：[Talk watching].  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年5月28日早9：30
+&emsp;&emsp;&emsp;&emsp;第49期：[Invited Speaker Talk] Predicting, retrodicting, and remembering narrative events.  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：许心明（达特茅斯大学心理学系，博士在读）  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月7日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第50期：Does the temporal cortex make us human? A review of structural and functional diversity of the primate temporal lobe.  
+&emsp;&emsp;&emsp;&emsp;第50期：[Invited Speaker Talk] More stable object-location binding in dynamic brain state, an object location mapping theory.  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月14日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第51期：[Talk watching].  Alpha Oscillation & Attention
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月18日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第52期：Does the temporal cortex make us human? A review of structural and functional diversity of the primate temporal lobe.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.neubiorev.2021.08.032  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：哈斯巴根，孙政辉  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月11日早9：30
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月25日早9：30
 
 &emsp;&emsp;&emsp;&emsp;第51期：[Talk watching].    
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月18日早9：30
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月2日早9：30
 
 &emsp;&emsp;&emsp;&emsp;第52期：Guided Search 6.0: An updated model of visual search!  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.3758/s13423-020-01859-9  
