@@ -287,7 +287,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月14日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第51期：[Talk watching].  Alpha Oscillation & Attention
+&emsp;&emsp;&emsp;&emsp;第51期：[Talk watching].  Alpha Oscillation & Attention  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月18日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第52期：[Talk] Do confidence and uncertainty differ in visual working memory.  
