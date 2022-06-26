@@ -258,11 +258,11 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：彭泰，杜彧  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年4月23日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第44期：[Invited Speaker Talk] Orbital cortical input to hippocampus mediates depression alleviation in patients.  
+&emsp;&emsp;&emsp;&emsp;第44期：[Talk] Orbital cortical input to hippocampus mediates depression alleviation in patients.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：韩思竹（上海交通大学精神卫生中心，博后）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年4月30日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第45期：[Invited Speaker Talk] 从机器行为到人类认知：客体识别中自涌现的关系表征  
+&emsp;&emsp;&emsp;&emsp;第45期：[Talk] 从机器行为到人类认知：客体识别中自涌现的关系表征  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：黄泰诚（清华大学脑与智能实验室，博后）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年5月7日早9：30
 
@@ -271,30 +271,39 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：黄静雅，何贤辉  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年5月21日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第47期：[Invited Speaker Talk] Evidence for chunking and repulsion of global and local representations in working memory.  
+&emsp;&emsp;&emsp;&emsp;第47期：[Talk] Evidence for chunking and repulsion of global and local representations in working memory.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李宇航（澳门大学心理学系，博士在读）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年5月24日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第48期：[Invited Speaker Talk] Training RNN to perform hidden state inference.  
+&emsp;&emsp;&emsp;&emsp;第48期：[Talk] Training RNN to perform hidden state inference.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：刘越（纽约大学神经科学中心，博后）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年5月31日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第49期：[Invited Speaker Talk] Predicting, retrodicting, and remembering narrative events.  
+&emsp;&emsp;&emsp;&emsp;第49期：[Talk] Predicting, retrodicting, and remembering narrative events.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：许心明（达特茅斯大学心理学系，博士在读）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月7日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第50期：[Invited Speaker Talk] More stable object-location binding in dynamic brain state, an object location mapping theory.  
+&emsp;&emsp;&emsp;&emsp;第50期：[Talk] More stable object-location binding in dynamic brain state, an object location mapping theory.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月14日早9：30
 
 &emsp;&emsp;&emsp;&emsp;第51期：[Talk watching].  Alpha Oscillation & Attention
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月18日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第52期：Does the temporal cortex make us human? A review of structural and functional diversity of the primate temporal lobe.  
+&emsp;&emsp;&emsp;&emsp;第52期：[Talk] Do confidence and uncertainty differ in visual working memory.  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月21日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第52期：[Talk] Talk 1: 面孔感知过程中一阶构型的加工时程：来自适应范式的证据； Talk 2: The pitfalls of process-based modeling in cognitive science.  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人1：陈新文；报告人2：马天野（加州大学河滨分校心理学系，博士在读）  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月28日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第53期：Does the temporal cortex make us human? A review of structural and functional diversity of the primate temporal lobe.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.neubiorev.2021.08.032  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：哈斯巴根，孙政辉  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月25日早9：30
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月1日早9：30
 
+<!--
 &emsp;&emsp;&emsp;&emsp;第51期：[Talk watching].    
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月2日早9：30
 
@@ -369,3 +378,4 @@
 
 &emsp;&emsp;&emsp;&emsp;第69期：[Talk watching].  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月23日早9：30
+-->
