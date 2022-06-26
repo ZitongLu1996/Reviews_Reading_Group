@@ -7,37 +7,39 @@
 
 * 小组成员：
 
-&emsp;&emsp;&emsp;&emsp;路子童 - 俄亥俄州立大学，博一  
-&emsp;&emsp;&emsp;&emsp;杨力 - 加州大学河滨分校，博三  
-&emsp;&emsp;&emsp;&emsp;李嘉琪 -	北京大学，博四  
-&emsp;&emsp;&emsp;&emsp;梁耀文 -	辽宁师范大学，研三  
-&emsp;&emsp;&emsp;&emsp;哈斯巴根 - 华南师范大学，研二  
-&emsp;&emsp;&emsp;&emsp;何贤辉 - 浙江大学，研一  
-&emsp;&emsp;&emsp;&emsp;史春妍 - 华南师范大学，研二  
-&emsp;&emsp;&emsp;&emsp;聂露 - 中山大学，博一  
-&emsp;&emsp;&emsp;&emsp;雷晓璇 - 麦吉尔大学，博一  
+&emsp;&emsp;&emsp;&emsp;路子童 - 俄亥俄州立大学，博士在读  
+&emsp;&emsp;&emsp;&emsp;杨力 - 加州大学河滨分校，博士在读  
+&emsp;&emsp;&emsp;&emsp;李嘉琪 -	北京大学，博士在读  
+&emsp;&emsp;&emsp;&emsp;梁耀文 -	辽宁师范大学，硕士毕业  
+&emsp;&emsp;&emsp;&emsp;哈斯巴根 - 华南师范大学，硕士在读  
+&emsp;&emsp;&emsp;&emsp;何贤辉 - 浙江大学，硕士在读  
+&emsp;&emsp;&emsp;&emsp;史春妍 - 华南师范大学，硕士在读  
+&emsp;&emsp;&emsp;&emsp;聂露 - 中山大学，博士在读  
+&emsp;&emsp;&emsp;&emsp;雷晓璇 - 麦吉尔大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;杜彧 - 亚利桑那大学，博后  
-&emsp;&emsp;&emsp;&emsp;彭泰 - 台湾国立清华大学，研三  
-&emsp;&emsp;&emsp;&emsp;孙政辉 - 南京师范大学，博三  
-&emsp;&emsp;&emsp;&emsp;孙嘉秋 - 上海纽约大学，博二  
-&emsp;&emsp;&emsp;&emsp;李思成 - 天津大学，研三  
-&emsp;&emsp;&emsp;&emsp;李婉如 - 北京大学，博一  
+&emsp;&emsp;&emsp;&emsp;彭泰 - 台湾国立清华大学，硕士在读  
+&emsp;&emsp;&emsp;&emsp;孙政辉 - 南京师范大学，博士在读  
+&emsp;&emsp;&emsp;&emsp;孙嘉秋 - 上海纽约大学，博士在读  
+&emsp;&emsp;&emsp;&emsp;李思成 - 天津大学，硕士在读  
+&emsp;&emsp;&emsp;&emsp;李婉如 - 北京大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;刘庆芳 - 西北大学，博后  
-&emsp;&emsp;&emsp;&emsp;万芊芊 - 俄亥俄州立大学，博二  
-&emsp;&emsp;&emsp;&emsp;黄静雅 - 华南师范大学，研二  
+&emsp;&emsp;&emsp;&emsp;万芊芊 - 俄亥俄州立大学，博士在读  
+&emsp;&emsp;&emsp;&emsp;黄静雅 - 华南师范大学，硕士在读  
+&emsp;&emsp;&emsp;&emsp;马小巾 - 圣路易斯华盛顿大学，博士在读  
+&emsp;&emsp;&emsp;&emsp;李慧玲 - 温州医科大学，硕士在读  
 
 * 曾经的成员：
 
-&emsp;&emsp;&emsp;&emsp;罗熙康 - 华东师范大学，研一  
-&emsp;&emsp;&emsp;&emsp;赵福君 - 北京儿童医院睡眠中心，住院医  
-&emsp;&emsp;&emsp;&emsp;陈慧芳 - 山东师范大学，研三  
-&emsp;&emsp;&emsp;&emsp;杨宇宏 - 奥胡斯大学，已毕业  
-&emsp;&emsp;&emsp;&emsp;沈云云 - 法国国家研究中心，博一  
-&emsp;&emsp;&emsp;&emsp;黄杰 - 苏州大学，博二  
-&emsp;&emsp;&emsp;&emsp;王世玉 - 华东师范大学，研三  
-&emsp;&emsp;&emsp;&emsp;程羽慧 - 中科院心理所，博二  
-&emsp;&emsp;&emsp;&emsp;陈新文 - 华南师范大学，研三  
-&emsp;&emsp;&emsp;&emsp;彭茂妙 - 亚利桑那大学，博三  
+&emsp;&emsp;&emsp;&emsp;罗熙康 - 华东师范大学
+&emsp;&emsp;&emsp;&emsp;赵福君 - 北京儿童医院睡眠中心
+&emsp;&emsp;&emsp;&emsp;陈慧芳 - 山东师范大学
+&emsp;&emsp;&emsp;&emsp;杨宇宏 - 奥胡斯大学 
+&emsp;&emsp;&emsp;&emsp;沈云云 - 法国国家研究中心 
+&emsp;&emsp;&emsp;&emsp;黄杰 - 苏州大学 
+&emsp;&emsp;&emsp;&emsp;王世玉 - 华东师范大学
+&emsp;&emsp;&emsp;&emsp;程羽慧 - 中科院心理所
+&emsp;&emsp;&emsp;&emsp;陈新文 - 华南师范大学
+&emsp;&emsp;&emsp;&emsp;彭茂妙 - 亚利桑那大学  
 
 * 小组活动形式：
 
