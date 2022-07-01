@@ -30,15 +30,15 @@
 
 * 曾经的成员：
 
-&emsp;&emsp;&emsp;&emsp;罗熙康 - 华东师范大学
-&emsp;&emsp;&emsp;&emsp;赵福君 - 北京儿童医院睡眠中心
-&emsp;&emsp;&emsp;&emsp;陈慧芳 - 山东师范大学
-&emsp;&emsp;&emsp;&emsp;杨宇宏 - 奥胡斯大学 
-&emsp;&emsp;&emsp;&emsp;沈云云 - 法国国家研究中心 
-&emsp;&emsp;&emsp;&emsp;黄杰 - 苏州大学 
-&emsp;&emsp;&emsp;&emsp;王世玉 - 华东师范大学
-&emsp;&emsp;&emsp;&emsp;程羽慧 - 中科院心理所
-&emsp;&emsp;&emsp;&emsp;陈新文 - 华南师范大学
+&emsp;&emsp;&emsp;&emsp;罗熙康 - 华东师范大学  
+&emsp;&emsp;&emsp;&emsp;赵福君 - 北京儿童医院睡眠中心  
+&emsp;&emsp;&emsp;&emsp;陈慧芳 - 山东师范大学  
+&emsp;&emsp;&emsp;&emsp;杨宇宏 - 奥胡斯大学  
+&emsp;&emsp;&emsp;&emsp;沈云云 - 法国国家研究中心  
+&emsp;&emsp;&emsp;&emsp;黄杰 - 苏州大学  
+&emsp;&emsp;&emsp;&emsp;王世玉 - 华东师范大学  
+&emsp;&emsp;&emsp;&emsp;程羽慧 - 中科院心理所  
+&emsp;&emsp;&emsp;&emsp;陈新文 - 华南师范大学  
 &emsp;&emsp;&emsp;&emsp;彭茂妙 - 亚利桑那大学  
 
 * 小组活动形式：
@@ -304,6 +304,10 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.neubiorev.2021.08.032  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：哈斯巴根，孙政辉  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月2日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第54期：[Talk] 视觉工作记忆的操纵单元  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人1：冀慧超（耶鲁大学心理学系，博士即将入学）  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月4日早10：00
 
 <!--
 &emsp;&emsp;&emsp;&emsp;第51期：[Talk watching].    
