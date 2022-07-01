@@ -303,7 +303,7 @@
 &emsp;&emsp;&emsp;&emsp;第53期：Does the temporal cortex make us human? A review of structural and functional diversity of the primate temporal lobe.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.neubiorev.2021.08.032  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：哈斯巴根，孙政辉  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月1日早9：30
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月2日早9：30
 
 <!--
 &emsp;&emsp;&emsp;&emsp;第51期：[Talk watching].    
