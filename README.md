@@ -289,7 +289,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月14日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第51期：[Talk watching].  Alpha Oscillation & Attention  
+&emsp;&emsp;&emsp;&emsp;第51期：[Talk watching].    
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月18日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第52期：[Talk] Do confidence and uncertainty differ in visual working memory.  
@@ -309,16 +309,17 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人1：冀慧超（耶鲁大学心理学系，博士即将入学）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月4日早10：00
 
+&emsp;&emsp;&emsp;&emsp;第56期：[Talk watching].   
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月9日早10：00
+
 <!--
-&emsp;&emsp;&emsp;&emsp;第51期：[Talk watching].    
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月2日早9：30
 
 &emsp;&emsp;&emsp;&emsp;第52期：Guided Search 6.0: An updated model of visual search!  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.3758/s13423-020-01859-9  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：史春妍，万芊芊  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月25日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第53期：[Talk watching].   
+&emsp;&emsp;&emsp;&emsp;第53期：[Talk watching].  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月2日早9：30
 
 &emsp;&emsp;&emsp;&emsp;第54期：Capturing the objects of vision with neural networks  
