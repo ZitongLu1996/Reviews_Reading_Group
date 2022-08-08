@@ -316,12 +316,12 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李东伟（北师大脑所，博士在读）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月12日晚21：00
 
-<!--
-
-&emsp;&emsp;&emsp;&emsp;第52期：Guided Search 6.0: An updated model of visual search!  
+&emsp;&emsp;&emsp;&emsp;第58期：Guided Search 6.0: An updated model of visual search!  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.3758/s13423-020-01859-9  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：史春妍，万芊芊  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年6月25日早9：30
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年8月13日早9：30
+
+<!--
 
 &emsp;&emsp;&emsp;&emsp;第53期：[Talk watching].  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月2日早9：30
