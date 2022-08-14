@@ -321,6 +321,10 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：史春妍，万芊芊  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年8月13日早9：30
 
+&emsp;&emsp;&emsp;&emsp;第59期：[Talk] Functional lateralization in Alzheimer’s disease (AD):  TheVirtualBrain (TVB) Computational Approach  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：王一乐（德州大学达拉斯分校神经科学系，博士在读）  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年8月17日早10：00
+
 <!--
 
 &emsp;&emsp;&emsp;&emsp;第53期：[Talk watching].  
