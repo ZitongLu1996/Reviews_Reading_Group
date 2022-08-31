@@ -3,7 +3,7 @@
 
 * 组织者：
 
-&emsp;&emsp;&emsp;&emsp;路子童（俄亥俄州立大学，博一）
+&emsp;&emsp;&emsp;&emsp;路子童
 
 * 小组成员：
 
