@@ -334,49 +334,34 @@
 &emsp;&emsp;&emsp;&emsp;第62期：Capturing the objects of vision with neural networks  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41562-021-01194-6  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童，李婉如  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年9月10日早9：30
-
-&emsp;&emsp;&emsp;&emsp;第63期：Memory consolidation as an adaptive process  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.3758/s13423-021-01978-x  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：聂露，杨力  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年9月17日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第64期：[Talk watching].  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年9月24日早10：00
+&emsp;&emsp;&emsp;&emsp;第63期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年9月24日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第65期：Two views on the cognitive brain  
+&emsp;&emsp;&emsp;&emsp;第64期：[Talk]   
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：博克（达特茅斯学院心理学系，博后）  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年9月28日早22：00
+
+&emsp;&emsp;&emsp;&emsp;第65期：[Talk]   
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：韩秋（Donders研究所，博士在读）  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年10月XX日晚22：00
+
+&emsp;&emsp;&emsp;&emsp;第66期：Memory consolidation as an adaptive process  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.3758/s13423-021-01978-x  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：聂露，杨力  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年10月8日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第67期：Two views on the cognitive brain  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41583-021-00448-6  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：梁耀文，哈斯巴根  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年10月8日早9：30
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年10月15日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第66期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;第68期：[Talk watching].  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年10月15日早10：00
 
 <!--
 
-&emsp;&emsp;&emsp;&emsp;第53期：[Talk watching].  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月2日早9：30
-
-&emsp;&emsp;&emsp;&emsp;第54期：Capturing the objects of vision with neural networks  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41562-021-01194-6  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童，李婉如  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月9日早9：30
-
-&emsp;&emsp;&emsp;&emsp;第55期：[Talk watching].  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月16日早9：30
-
-&emsp;&emsp;&emsp;&emsp;第56期：Memory consolidation as an adaptive process  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.3758/s13423-021-01978-x  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：聂露，杨力  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月23日早9：30
-
-&emsp;&emsp;&emsp;&emsp;第57期：[Talk watching].  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月30日早9：30
-
-&emsp;&emsp;&emsp;&emsp;第58期：Two views on the cognitive brain  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41583-021-00448-6  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：梁耀文，哈斯巴根  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年8月6日早9：30
 
 &emsp;&emsp;&emsp;&emsp;第59期：[Talk watching].  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年8月13日早9：30
