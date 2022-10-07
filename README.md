@@ -345,12 +345,12 @@
 
 &emsp;&emsp;&emsp;&emsp;第65期：[Talk]   
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：韩秋（Donders研究所，博士在读）  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年10月XX日晚22：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年10月6日晚22：00
 
 &emsp;&emsp;&emsp;&emsp;第66期：Memory consolidation as an adaptive process  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.3758/s13423-021-01978-x  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：聂露，杨力  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年10月8日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年10月9日早9：30
 
 &emsp;&emsp;&emsp;&emsp;第67期：Two views on the cognitive brain  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1038/s41583-021-00448-6  
