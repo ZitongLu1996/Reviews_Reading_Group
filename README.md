@@ -358,45 +358,73 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年10月15日早9：30
 
 &emsp;&emsp;&emsp;&emsp;第68期：[Talk watching].  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年10月15日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年10月22日早10：00
 
-<!--
-
-
-&emsp;&emsp;&emsp;&emsp;第59期：[Talk watching].  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年8月13日早9：30
-
-&emsp;&emsp;&emsp;&emsp;第60期：The dimensionality of neural representations for control  
+&emsp;&emsp;&emsp;&emsp;第69期：The dimensionality of neural representations for control  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.cobeha.2020.07.002  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：张天宇，雷晓璇  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年8月20日早9：30
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年10月29日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第61期：[Talk watching].  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年9月3日早9：30
+&emsp;&emsp;&emsp;&emsp;第70期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年11月5日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第62期：Human Representation Learning  
+&emsp;&emsp;&emsp;&emsp;第71期：Human Representation Learning  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1146/annurev-neuro-092920-120559  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：刘庆芳，李思成  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年9月17日早9：30
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年11月19日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第63期：[Talk watching].  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年9月24日早9：30
+&emsp;&emsp;&emsp;&emsp;第72期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年11月26日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第64期：How movements shape the perception of time  
+&emsp;&emsp;&emsp;&emsp;第73期：How movements shape the perception of time  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.tics.2021.08.002  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：孙嘉秋，杜彧  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年10月8日早9：30
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年12月3日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第65期：[Talk watching].  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年10月15日早9：30
+&emsp;&emsp;&emsp;&emsp;第74期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年12月10日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第66期：Visual category learning: Navigating the intersection of rules and similarity  
+&emsp;&emsp;&emsp;&emsp;第75期：Visual category learning: Navigating the intersection of rules and similarity  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.3758/s13423-020-01838-0  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童，杨力  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年10月22日早9：30
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年12月17日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第67期：[Talk watching].  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月23日早9：30
+&emsp;&emsp;&emsp;&emsp;第76期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年12月23日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第77期：Missing links: The functional unification of language and memory (L∪M)  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.neubiorev.2021.12.012  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：梁耀文，孙政辉  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年1月7日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第78期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年1月13日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第79期：The population doctrine in cognitive neuroscience  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.neuron.2021.07.011  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：刘庆芳，孙嘉秋  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年2月4日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第80期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年2月11日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第81期：Learning offline: memory replay in biological and artificial reinforcement learning  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.tins.2021.07.007  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：万芊芊，雷晓璇  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年2月18日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第82期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年2月25日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第83期：Looking for the neural basis of memory  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.tics.2021.10.010  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：聂露，杜彧  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年3月4日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第84期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年3月11日早10：00
+
+<!--
 
 &emsp;&emsp;&emsp;&emsp;第68期：  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  
