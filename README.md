@@ -339,11 +339,11 @@
 &emsp;&emsp;&emsp;&emsp;第63期：[Talk watching].  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年9月24日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第64期：[Talk]   
+&emsp;&emsp;&emsp;&emsp;第64期：[Talk] Decoding the temporal dynamics of affective scene processing  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：博克（达特茅斯学院心理学系，博后）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年9月28日早22：00
 
-&emsp;&emsp;&emsp;&emsp;第65期：[Talk]   
+&emsp;&emsp;&emsp;&emsp;第65期：[Talk] Infering the unseen: perceptual biases for body postures and body movements  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：韩秋（Donders研究所，博士在读）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年10月6日晚22：00
 
