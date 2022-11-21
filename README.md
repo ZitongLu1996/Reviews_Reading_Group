@@ -1,4 +1,4 @@
-# Reviews_Reading_Group
+# Reviews_Reading_Group (RRG)
 ## Memory&amp;Perception相关综述文献阅读小组
 
 * 组织者：
