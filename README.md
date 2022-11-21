@@ -360,13 +360,24 @@
 &emsp;&emsp;&emsp;&emsp;第68期：[Talk watching].  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年10月22日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第69期：The dimensionality of neural representations for control  
+&emsp;&emsp;&emsp;&emsp;第69期：[Topic discussion] The theta and gamma neural code in human memory  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年10月29日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第70期：[Talk] Attentional suppression of unpredictable visual distraction  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：马小巾  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年11月2日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第71期：The dimensionality of neural representations for control  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.cobeha.2020.07.002  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：张天宇，雷晓璇  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年10月29日早9：30
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年X月X日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第70期：[Talk watching].  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年11月5日早10：00
+&emsp;&emsp;&emsp;&emsp;第72期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年X月X日早10：00
+
+
+<!--
 
 &emsp;&emsp;&emsp;&emsp;第71期：Human Representation Learning  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1146/annurev-neuro-092920-120559  
@@ -424,7 +435,6 @@
 &emsp;&emsp;&emsp;&emsp;第84期：[Talk watching].  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年3月11日早10：00
 
-<!--
 
 &emsp;&emsp;&emsp;&emsp;第68期：  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  
