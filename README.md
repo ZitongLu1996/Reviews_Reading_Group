@@ -368,12 +368,27 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：马小巾  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年11月2日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第71期：The dimensionality of neural representations for control  
+&emsp;&emsp;&emsp;&emsp;第71期：[Topic discussion] 行为学实验分享会.  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年11月5日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第72期：[Invited Talk] Updating memories of unwanted emotions during human sleep  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：夏涛（香港大学心理学系，博士后）  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年12月1日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第73期：[Talk] Temporally dynamic representations of object relative and real-world size and depth  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年12月3日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第74期：[Talk] The tuning landscapes of the ventral stream  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：王彬旭（哈佛医学院，圣路易斯华盛顿大学神经科学系，博士在读）  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年12月3日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第75期：The dimensionality of neural representations for control  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.cobeha.2020.07.002  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：张天宇，雷晓璇  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年X月X日早9：30
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年12月10日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第72期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;第76期：[Talk watching].  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年X月X日早10：00
 
 
