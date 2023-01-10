@@ -389,18 +389,18 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年12月10日早9：30
 
 &emsp;&emsp;&emsp;&emsp;第76期：[Talk watching].  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年X月X日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年12月17日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第77期：Human Representation Learning  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1146/annurev-neuro-092920-120559  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：刘庆芳，李思成  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年1月14日早9：30
+
+&emsp;&emsp;&emsp;&emsp;第78期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年2月4日早10：00
 
 
 <!--
-
-&emsp;&emsp;&emsp;&emsp;第71期：Human Representation Learning  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1146/annurev-neuro-092920-120559  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：刘庆芳，李思成  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年11月19日早9：30
-
-&emsp;&emsp;&emsp;&emsp;第72期：[Talk watching].  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年11月26日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第73期：How movements shape the perception of time  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.tics.2021.08.002  
