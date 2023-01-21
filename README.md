@@ -396,7 +396,11 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：刘庆芳，李思成  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年1月14日早9：30
 
-&emsp;&emsp;&emsp;&emsp;第78期：[Talk watching].  
+&emsp;&emsp;&emsp;&emsp;第78期：[Talk] Generate your neural signals from mine: individual-to-individual EEG converters  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年1月18日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第79期：[Talk watching].  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年2月4日早10：00
 
 
