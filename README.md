@@ -42,8 +42,8 @@
 &emsp;&emsp;&emsp;&emsp;程羽慧 - 中科院心理所  
 &emsp;&emsp;&emsp;&emsp;陈新文 - 华南师范大学  
 &emsp;&emsp;&emsp;&emsp;彭茂妙 - 亚利桑那大学  
-&emsp;&emsp;&emsp;&emsp;史春妍 - 华南师范大学
-&emsp;&emsp;&emsp;&emsp;雷晓璇 - 麦吉尔大学
+&emsp;&emsp;&emsp;&emsp;史春妍 - 华南师范大学  
+&emsp;&emsp;&emsp;&emsp;雷晓璇 - 麦吉尔大学  
 &emsp;&emsp;&emsp;&emsp;杜彧 - 亚利桑那大学  
 &emsp;&emsp;&emsp;&emsp;彭泰 - 台湾国立清华大学  
 &emsp;&emsp;&emsp;&emsp;孙政辉 - 南京师范大学  
