@@ -408,9 +408,21 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年1月18日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第79期：[Talk watching].  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年2月4日早10：00
+&emsp;&emsp;&emsp;&emsp;第79期：[Invited Talk] Jointly looking to the past and the future in visual working memory  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：刘柏炜 (阿姆斯特丹自由大学, 博士在读)  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年2月13日晚10：00
 
+&emsp;&emsp;&emsp;&emsp;第80期：[Invited Talk] Assessing the representation of seen and unseen contents in human brains and deep artificial networks  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：梅宁 (Basque center on Cogntion, Brain, and Language, 博后)  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年2月18日晚10：00
+
+&emsp;&emsp;&emsp;&emsp;第81期：On the latency of object recognition and affect: evidenc from temporal order and simultaneity judgements  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：聂露  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年2月25日晚10：00
+
+&emsp;&emsp;&emsp;&emsp;第82期：History reactivation biases but stabilizes working memory  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：[Talk] 张梓垚  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年3月1日早10：00
 
 <!--
 
