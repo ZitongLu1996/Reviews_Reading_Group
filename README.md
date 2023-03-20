@@ -424,6 +424,14 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：[Talk] 张梓垚  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年3月1日早10：00
 
+&emsp;&emsp;&emsp;&emsp;第83期：How big should this object be? Perceptual influences on viewing-size preferences.  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年3月4日晚10：00
+
+&emsp;&emsp;&emsp;&emsp;第84期：What to expect where and when: how statistical learning drives visual selection.  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李东伟，马小巾  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年3月8日晚10：00
+
 <!--
 
 &emsp;&emsp;&emsp;&emsp;第73期：How movements shape the perception of time  
