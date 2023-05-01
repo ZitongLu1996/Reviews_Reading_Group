@@ -420,74 +420,51 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：聂露  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年2月25日晚10：00
 
-&emsp;&emsp;&emsp;&emsp;第82期：History reactivation biases but stabilizes working memory  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：[Talk] 张梓垚  
+&emsp;&emsp;&emsp;&emsp;第82期：[Talk] History reactivation biases but stabilizes working memory  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：张梓垚  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年3月1日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第83期：How big should this object be? Perceptual influences on viewing-size preferences.  
+&emsp;&emsp;&emsp;&emsp;第83期：How big should this object be? Perceptual influences on viewing-size preferences  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年3月4日晚10：00
 
-&emsp;&emsp;&emsp;&emsp;第84期：What to expect where and when: how statistical learning drives visual selection.  
+&emsp;&emsp;&emsp;&emsp;第84期：What to expect where and when: how statistical learning drives visual selection  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李东伟，马小巾  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年3月8日晚10：00
 
-<!--
+&emsp;&emsp;&emsp;&emsp;第85期：[Invited Talk] Pupil encodes uncertainty during exploration  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：樊浩雪 (哈佛大学心理学系，博士在读)  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年3月23日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第73期：How movements shape the perception of time  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.tics.2021.08.002  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：孙嘉秋，杜彧  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年12月3日早9：30
+&emsp;&emsp;&emsp;&emsp;第86期：Visual working memory directly alters perception  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：王欣雨  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年3月25日晚10：00
 
-&emsp;&emsp;&emsp;&emsp;第74期：[Talk watching].  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年12月10日早10：00
+&emsp;&emsp;&emsp;&emsp;第87期：[Talk] Decisions from memory: uncovering the temporal dynamics of open-ended decisions  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：杨晓智（俄亥俄州立大学心理学系，博士在读）  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年3月29日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第75期：Visual category learning: Navigating the intersection of rules and similarity  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.3758/s13423-020-01838-0  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童，杨力  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年12月17日早9：30
+&emsp;&emsp;&emsp;&emsp;第88期：How variability shapes learning and generalization  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：孙嘉秋，杨宇宏  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年4月1日晚10：00
 
-&emsp;&emsp;&emsp;&emsp;第76期：[Talk watching].  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年12月23日早10：00
+&emsp;&emsp;&emsp;&emsp;第89期：[Invited Talk] The effects of emotion and semantics on word memorability  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：张浩宇（多伦多大学心理学系，博士即将入学）  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年4月4日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第77期：Missing links: The functional unification of language and memory (L∪M)  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.neubiorev.2021.12.012  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：梁耀文，孙政辉  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年1月7日早9：30
+&emsp;&emsp;&emsp;&emsp;第90期：The Visual Mandela Effect as Evidence for Shared and Specific False Memories Across People  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：冉孟馨  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年4月8日晚10：00
 
-&emsp;&emsp;&emsp;&emsp;第78期：[Talk watching].  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年1月13日早10：00
+&emsp;&emsp;&emsp;&emsp;第91期：Abstract task representations for inference and control  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：王欣雨，李宇航  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年4月15日晚10：00
 
-&emsp;&emsp;&emsp;&emsp;第79期：The population doctrine in cognitive neuroscience  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.neuron.2021.07.011  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：刘庆芳，孙嘉秋  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年2月4日早9：30
+&emsp;&emsp;&emsp;&emsp;第92期：Is all mental effort equal? The role of cognitive demand-type on effort avoidance  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：张天宇  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年4月22日晚10：00
 
-&emsp;&emsp;&emsp;&emsp;第80期：[Talk watching].  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年2月11日早10：00
+&emsp;&emsp;&emsp;&emsp;第93期：Face perception: computational insights from phylogeny  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李锦  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年5月6日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第81期：Learning offline: memory replay in biological and artificial reinforcement learning  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.tins.2021.07.007  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：万芊芊，雷晓璇  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年2月18日早9：30
-
-&emsp;&emsp;&emsp;&emsp;第82期：[Talk watching].  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年2月25日早10：00
-
-&emsp;&emsp;&emsp;&emsp;第83期：Looking for the neural basis of memory  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;https://doi.org/10.1016/j.tics.2021.10.010  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：聂露，杜彧  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年3月4日早9：30
-
-&emsp;&emsp;&emsp;&emsp;第84期：[Talk watching].  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年3月11日早10：00
-
-
-&emsp;&emsp;&emsp;&emsp;第68期：  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月16日早9：30
-
-&emsp;&emsp;&emsp;&emsp;第69期：[Talk watching].  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2022年7月23日早9：30
--->
