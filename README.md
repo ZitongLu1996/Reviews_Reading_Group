@@ -17,10 +17,8 @@
 &emsp;&emsp;&emsp;&emsp;孙嘉秋 - 上海纽约大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;李思成 - 天津大学，硕士在读  
 &emsp;&emsp;&emsp;&emsp;李婉如 - 北京大学，博士在读  
-&emsp;&emsp;&emsp;&emsp;万芊芊 - 俄亥俄州立大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;黄静雅 - 华南师范大学，硕士在读  
 &emsp;&emsp;&emsp;&emsp;马小巾 - 圣路易斯华盛顿大学，博士在读  
-&emsp;&emsp;&emsp;&emsp;李慧玲 - 温州医科大学，硕士在读  
 &emsp;&emsp;&emsp;&emsp;李锦 - 俄亥俄州立大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;张梓垚 - 德州大学奥斯汀分校，博士在读  
 &emsp;&emsp;&emsp;&emsp;李慧玲 - 温州医科大学，硕士在读  
@@ -32,6 +30,8 @@
 &emsp;&emsp;&emsp;&emsp;杨宇宏 - 奥胡斯大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;赵福君 - 北京儿童医院睡眠中心，主任医师  
 &emsp;&emsp;&emsp;&emsp;李宇航 - 澳门大学，博士在读  
+&emsp;&emsp;&emsp;&emsp;王欣雨 - 清华大学，博士在读
+&emsp;&emsp;&emsp;&emsp;李东伟 - 北京师范大学，博士在读    
 
 * 曾经的成员：
 
@@ -48,6 +48,7 @@
 &emsp;&emsp;&emsp;&emsp;彭泰 - 台湾国立清华大学  
 &emsp;&emsp;&emsp;&emsp;孙政辉 - 南京师范大学  
 &emsp;&emsp;&emsp;&emsp;刘庆芳 - 西北大学  
+&emsp;&emsp;&emsp;&emsp;万芊芊 - 俄亥俄州立大学  
 
 * 小组活动形式：
 
@@ -465,6 +466,94 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年4月22日晚10：00
 
 &emsp;&emsp;&emsp;&emsp;第93期：Face perception: computational insights from phylogeny  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李锦  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李锦，赵福君  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年5月6日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第94期：[Invited Talk] Imaging the neural substrate of trigeminal neuralgia pain using deep learning  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：梁韵（佛罗里达大学生物医学工程系，博士在读）  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年5月11日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第95期：[Invited Talk] Cross-stage neural pattern similarity in the hippocampus predicts false memory derived from post-event inaccurate information  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：邵旭浩（北京师范大学心理学系，博士在读）  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年5月13日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第96期：[Invited Talk] Every individual makes a difference: A trinity derived from linking individual brain morphometry, connectivity and mentalising ability  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李肇宁（澳门大学心理学系，博士在读）  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年5月17日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第XXX期：Mapping the social landscape: tracking patterns of interpersonal relationships 李思成，王世玉  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李思成，王世玉  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年5月27日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第XXX期：XXX  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李宇航  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年6月3日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第XXX期：Decoding semantic representations in mind and brain  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：哈斯巴根，梁耀文  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年6月10日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第XXX期：XXX  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李东伟  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年6月17日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第XXX期：Using artificial neural networks to ask ‘why’ questions of minds and brains  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童，刘伊君  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年7月1日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第XXX期：XXX  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李思成  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年7月22日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第XXX期：Priority coding in the visual system  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：冉孟馨，李婉如  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年8月5日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第XXX期：[ML in CogNeuro] Section 1  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年8月12日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第XXX期：XXX  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：王世玉  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年8月19日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第XXX期：The structures and functions of correlations in neural population codes  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉，张天宇  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年9月2日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第XXX期：[ML in CogNeuro] Section 2  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年9月9日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第XXX期：XXX  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：聂露  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年9月16日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第XXX期：Goals, usefulness and abstraction in value-based choice  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：张梓垚  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年9月23日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第XXX期：XXX  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：马小巾  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年10月7日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第XXX期：[ML in CogNeuro] Section 3  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年10月14日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第XXX期：Three aspects of representation in neuroscience  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：黄静雅，李慧玲  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年10月21日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第XXX期：XXX  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年10月28日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第XXX期：Understanding Human Object Vision: A Picture Is Worth a Thousand Representations  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李嘉琪，路子童  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年11月4日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第XXX期：[ML in CogNeuro] Section 4  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年11月11日早10：00
 
