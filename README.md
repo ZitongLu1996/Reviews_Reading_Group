@@ -481,7 +481,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李肇宁（澳门大学心理学系，博士在读）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年5月17日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第XXX期：Mapping the social landscape: tracking patterns of interpersonal relationships 李思成，王世玉  
+&emsp;&emsp;&emsp;&emsp;第97期：Mapping the social landscape: tracking patterns of interpersonal relationships 李思成，王世玉  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李思成，王世玉  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年5月27日晚10：00
 
