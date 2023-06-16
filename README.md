@@ -494,7 +494,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年6月10日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第100期：[Talk] The Neural Basis of Visual Working Memory of Real-World Object  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：；李婉如  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李婉如  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年6月13日晚10：00
 
 &emsp;&emsp;&emsp;&emsp;第101期：[Invited Talk] Angular gyrus responses show joint statistical dependence with brain regions selective for different categories  
