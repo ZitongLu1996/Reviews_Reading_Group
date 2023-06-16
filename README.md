@@ -485,13 +485,21 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李思成，王世玉  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年5月27日晚10：00
 
-&emsp;&emsp;&emsp;&emsp;第XXX期：XXX  
+&emsp;&emsp;&emsp;&emsp;第98期：Biased evaluations emerge from inferring hidden causes  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李宇航  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年6月3日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第XXX期：Decoding semantic representations in mind and brain  
+&emsp;&emsp;&emsp;&emsp;第99期：Decoding semantic representations in mind and brain  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：哈斯巴根，梁耀文  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年6月10日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第100期：[Talk] The Neural Basis of Visual Working Memory of Real-World Object  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：；李婉如  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年6月13日晚10：00
+
+&emsp;&emsp;&emsp;&emsp;第101期：[Invited Talk] Angular gyrus responses show joint statistical dependence with brain regions selective for different categories  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：方梦婷（宾州大学心理学系，博士在读）  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年6月16日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第XXX期：XXX  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李东伟  
