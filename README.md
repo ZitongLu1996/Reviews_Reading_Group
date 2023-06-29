@@ -503,67 +503,67 @@
 
 &emsp;&emsp;&emsp;&emsp;第XXX期：XXX  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李东伟  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年6月17日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年7月1日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第XXX期：Using artificial neural networks to ask ‘why’ questions of minds and brains  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童，刘伊君  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年7月1日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年7月22日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第XXX期：XXX  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李思成  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年7月22日早10：00
-
-&emsp;&emsp;&emsp;&emsp;第XXX期：Priority coding in the visual system  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：冉孟馨，李婉如  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年8月5日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第XXX期：[ML in CogNeuro] Section 1 - Research cycle of modelling, prediction, and verification  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李慧玲  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年8月12日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第XXX期：XXX  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：王世玉  
+&emsp;&emsp;&emsp;&emsp;第XXX期：Priority coding in the visual system  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：冉孟馨，李婉如  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年8月19日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第XXX期：The structures and functions of correlations in neural population codes  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉，张天宇  
+&emsp;&emsp;&emsp;&emsp;第XXX期：XXX  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：王世玉  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年9月2日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第XXX期：[ML in CogNeuro] Section 2 - An in-depth look at RSA  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：陈率  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年9月9日早10：00
 
+&emsp;&emsp;&emsp;&emsp;第XXX期：The structures and functions of correlations in neural population codes  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉，张天宇  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年9月16日早10：00
+
 &emsp;&emsp;&emsp;&emsp;第XXX期：XXX  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：聂露  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年9月16日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年9月23日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第XXX期：Goals, usefulness and abstraction in value-based choice  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：张梓垚  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年9月23日早10：00
-
-&emsp;&emsp;&emsp;&emsp;第XXX期：XXX  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：马小巾  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年10月7日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第XXX期：[ML in CogNeuro] Section 3 - Normative Modelling  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：冉孟馨  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年10月14日早10：00
 
+&emsp;&emsp;&emsp;&emsp;第XXX期：XXX  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：马小巾  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年10月21日早10：00
+
 &emsp;&emsp;&emsp;&emsp;第XXX期：Three aspects of representation in neuroscience  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：黄静雅，李慧玲  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年10月21日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年10月28日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第XXX期：XXX  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年10月28日早10：00
-
-&emsp;&emsp;&emsp;&emsp;第XXX期：Understanding Human Object Vision: A Picture Is Worth a Thousand Representations  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李嘉琪，路子童  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年11月4日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第XXX期：[ML in CogNeuro] Section 4 - Success and issues of supervised (feedforward) models  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年11月11日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第XXX期：Understanding Human Object Vision: A Picture Is Worth a Thousand Representations  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李嘉琪，路子童  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年11月18日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第XXX期：[ML in CogNeuro] Section 5 - Cognitive development and unsupervised learning  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李东伟  
