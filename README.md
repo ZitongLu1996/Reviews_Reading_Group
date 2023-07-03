@@ -501,9 +501,13 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：方梦婷（宾州大学心理学系，博士在读）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年6月16日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第XXX期：XXX  
+&emsp;&emsp;&emsp;&emsp;第103期：Different computations underlie overt presaccadic and covert spatial attention  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李东伟  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年7月1日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第104期：[Invite Talk] 怎样设计和编程实现一个认知模型？  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：杨金骉（马普所心理语言学研究所，博后）  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年7月4日晚9：30
 
 &emsp;&emsp;&emsp;&emsp;第XXX期：Using artificial neural networks to ask ‘why’ questions of minds and brains  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童，刘伊君  
