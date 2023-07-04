@@ -579,16 +579,16 @@
 
 &emsp;&emsp;&emsp;&emsp;第XXX期：[ML in CogNeuro] Section 7 - Recurrence  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李嘉琪  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年3月9日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年3月9日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第XXX期：[ML in CogNeuro] Section 8 - Language modelling  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：杨宇宏  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年4月13日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年4月13日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第XXX期：[ML in CogNeuro] Section 9 - Embodiment  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：孙嘉秋  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年5月11日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年5月11日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第XXX期：[ML in CogNeuro] Section 10 - Problems and ways in which biology could solve them  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年6月15日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年6月15日早10：00
