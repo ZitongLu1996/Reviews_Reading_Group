@@ -509,7 +509,11 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：杨金骉（马普所心理语言学研究所，博后）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年7月4日晚9：30
 
-&emsp;&emsp;&emsp;&emsp;第XXX期：Using artificial neural networks to ask ‘why’ questions of minds and brains  
+&emsp;&emsp;&emsp;&emsp;第105期：[Invite Talk] Title: Externalizing illusory experiences using reconstruction methods  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：程帆（日本先进电信研究所计算神经科学实验室，博后）  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年7月18日晚9：30
+
+&emsp;&emsp;&emsp;&emsp;第106期：Using artificial neural networks to ask ‘why’ questions of minds and brains  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童，刘伊君  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年7月22日早10：00
 
