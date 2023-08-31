@@ -501,35 +501,35 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：方梦婷（宾州大学心理学系，博士在读）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年6月16日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第103期：Different computations underlie overt presaccadic and covert spatial attention  
+&emsp;&emsp;&emsp;&emsp;第102期：Different computations underlie overt presaccadic and covert spatial attention  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李东伟  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年7月1日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第104期：[Invite Talk] 怎样设计和编程实现一个认知模型？  
+&emsp;&emsp;&emsp;&emsp;第103期：[Invite Talk] 怎样设计和编程实现一个认知模型？  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：杨金骉（马普所心理语言学研究所，博后）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年7月4日晚9：30
 
-&emsp;&emsp;&emsp;&emsp;第105期：[Invite Talk] Title: Externalizing illusory experiences using reconstruction methods  
+&emsp;&emsp;&emsp;&emsp;第104期：[Invite Talk] Title: Externalizing illusory experiences using reconstruction methods  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：程帆（日本先进电信研究所计算神经科学实验室，博后）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年7月18日晚9：30
 
-&emsp;&emsp;&emsp;&emsp;第106期：Using artificial neural networks to ask ‘why’ questions of minds and brains  
+&emsp;&emsp;&emsp;&emsp;第105期：Using artificial neural networks to ask ‘why’ questions of minds and brains  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童，刘伊君  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年7月22日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第XXX期：XXX  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李思成  
+&emsp;&emsp;&emsp;&emsp;第106期：Efficient spatial coding for covert selective attention  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：马小巾  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年8月5日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第XXX期：[ML in CogNeuro] Section 1 - Research cycle of modelling, prediction, and verification  
+&emsp;&emsp;&emsp;&emsp;第107期：[ML in CogNeuro] Section 1 - Research cycle of modelling, prediction, and verification  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李慧玲  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年8月12日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第XXX期：Priority coding in the visual system  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：冉孟馨，李婉如  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年8月19日早10：00
+&emsp;&emsp;&emsp;&emsp;第108期：Cortical topographic motifs emerge in a self-organized map of object space  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年8月20日晚10：00
 
-&emsp;&emsp;&emsp;&emsp;第XXX期：XXX  
+&emsp;&emsp;&emsp;&emsp;第109期：Identifying social partners through indirect prosociality: A computational account  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：王世玉  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年9月2日早10：00
 
@@ -567,11 +567,15 @@
 
 &emsp;&emsp;&emsp;&emsp;第XXX期：[ML in CogNeuro] Section 4 - Success and issues of supervised (feedforward) models  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年11月11日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年11月18日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第XXX期：Understanding Human Object Vision: A Picture Is Worth a Thousand Representations  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李嘉琪，路子童  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年11月18日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年11月25日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第XXX期：Priority coding in the visual system  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：冉孟馨，李婉如  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年12月2日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第XXX期：[ML in CogNeuro] Section 5 - Cognitive development and unsupervised learning  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李东伟  
