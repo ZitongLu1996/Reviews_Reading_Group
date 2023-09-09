@@ -9,7 +9,7 @@
 
 &emsp;&emsp;&emsp;&emsp;路子童 - 俄亥俄州立大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;杨力 - 加州大学河滨分校，博士在读  
-&emsp;&emsp;&emsp;&emsp;李嘉琪 -	北京大学，博后  
+&emsp;&emsp;&emsp;&emsp;李嘉琪 -	北京大学/伯明翰大学，博后  
 &emsp;&emsp;&emsp;&emsp;梁耀文 -	辽宁师范大学，硕士毕业  
 &emsp;&emsp;&emsp;&emsp;何贤辉 - 浙江大学，硕士在读  
 &emsp;&emsp;&emsp;&emsp;聂露 - 中山大学，博士在读  
