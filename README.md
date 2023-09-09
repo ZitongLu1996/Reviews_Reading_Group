@@ -15,7 +15,7 @@
 &emsp;&emsp;&emsp;&emsp;聂露 - 中山大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;孙嘉秋 - 上海纽约大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;李婉如 - 北京大学，博士在读  
-&emsp;&emsp;&emsp;&emsp;黄静雅 - 华南师范大学，硕士在读  
+&emsp;&emsp;&emsp;&emsp;黄静雅 - 根特大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;马小巾 - 圣路易斯华盛顿大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;李锦 - 俄亥俄州立大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;李慧玲 - 华东师范大学，博士在读  
