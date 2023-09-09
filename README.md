@@ -27,7 +27,7 @@
 &emsp;&emsp;&emsp;&emsp;王欣雨 - 清华大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;李东伟 - 北京师范大学珠海分校，助理教授  
 &emsp;&emsp;&emsp;&emsp;程帆 - 京都大学，博士毕业  
-&emsp;&emsp;&emsp;&emsp;程羽慧 - 中科院心理所，博士毕业  
+&emsp;&emsp;&emsp;&emsp;程羽慧 - 南京师范大学，讲师  
 
 * 曾经的成员：
 
