@@ -534,29 +534,29 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：王世玉  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年9月2日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第XXX期：[ML in CogNeuro] Section 2 - An in-depth look at RSA  
+&emsp;&emsp;&emsp;&emsp;第110期：[ML in CogNeuro] Section 2 - An in-depth look at RSA  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：陈率  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年9月9日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第XXX期：The structures and functions of correlations in neural population codes  
+&emsp;&emsp;&emsp;&emsp;第111期：The structures and functions of correlations in neural population codes  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉，张天宇  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年9月16日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第XXX期：XXX  
+&emsp;&emsp;&emsp;&emsp;第112期：XXX  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：聂露，陈率  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年9月23日早10：00
-
-&emsp;&emsp;&emsp;&emsp;第XXX期：Three aspects of representation in neuroscience  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：黄静雅，李慧玲  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年10月7日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第XXX期：[ML in CogNeuro] Section 3 - Normative Modelling  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：待定  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：聂露  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年10月14日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第XXX期：Three aspects of representation in neuroscience  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：黄静雅，李慧玲  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年10月21日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第XXX期：XXX  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年10月21日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年10月28日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第XXX期：[ML in CogNeuro] Section 4 - Success and issues of supervised (feedforward) models  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童  
