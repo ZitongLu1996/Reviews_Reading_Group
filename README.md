@@ -564,7 +564,7 @@
 
 &emsp;&emsp;&emsp;&emsp;第XXX期：[ML in CogNeuro] Section 4 - Success and issues of supervised (feedforward) models  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年1月6日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年1月13日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第XXX期：Priority coding in the visual system  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：冉孟馨，李婉如  
