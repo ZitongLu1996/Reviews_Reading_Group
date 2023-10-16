@@ -542,15 +542,19 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉，张天宇  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年9月16日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第112期：XXX  
+&emsp;&emsp;&emsp;&emsp;第112期：Contextual inference in learning and memory.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：聂露，陈率  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年10月7日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第XXX期：[ML in CogNeuro] Section 3 - Normative Modelling  
+&emsp;&emsp;&emsp;&emsp;第112期：[ML in CogNeuro] Section 3 - Normative Modelling  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：聂露  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年10月14日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第XXX期：Three aspects of representation in neuroscience  
+&emsp;&emsp;&emsp;&emsp;第114期：[Invited Talk] End-to-end topographic networks as models of  cortical map formation and human visual behaviour:  moving beyond convolutions  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：陆泽金（柏林自由大学，博士在读）  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年10月17日晚9：00
+
+&emsp;&emsp;&emsp;&emsp;第115期：Three aspects of representation in neuroscience  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：黄静雅，李慧玲  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年10月21日早10：00
 
