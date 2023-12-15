@@ -570,10 +570,6 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年1月13日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第XXX期：Priority coding in the visual system  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：冉孟馨，李婉如  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年1月20日早10：00
-
 &emsp;&emsp;&emsp;&emsp;第XXX期：[ML in CogNeuro] Section 5 - Cognitive development and unsupervised learning  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李东伟  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年3月9日早10：00
