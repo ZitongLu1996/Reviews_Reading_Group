@@ -10,24 +10,22 @@
 &emsp;&emsp;&emsp;&emsp;路子童 - 俄亥俄州立大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;杨力 - 加州大学河滨分校，博士在读  
 &emsp;&emsp;&emsp;&emsp;李嘉琪 -	北京大学/伯明翰大学，博后  
-&emsp;&emsp;&emsp;&emsp;梁耀文 -	辽宁师范大学，硕士毕业  
+&emsp;&emsp;&emsp;&emsp;梁耀文 -	北京师范大学，研究助理  
 &emsp;&emsp;&emsp;&emsp;何贤辉 - 浙江大学，硕士在读  
 &emsp;&emsp;&emsp;&emsp;聂露 - 中山大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;孙嘉秋 - 上海纽约大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;李婉如 - 北京大学，博士在读  
-&emsp;&emsp;&emsp;&emsp;黄静雅 - 根特大学，博士在读  
-&emsp;&emsp;&emsp;&emsp;马小巾 - 圣路易斯华盛顿大学，博士在读  
-&emsp;&emsp;&emsp;&emsp;李锦 - 俄亥俄州立大学，博士在读  
-&emsp;&emsp;&emsp;&emsp;李慧玲 - 华东师范大学，博士在读  
+&emsp;&emsp;&emsp;&emsp;马小巾 - 密苏里大学，博后  
+&emsp;&emsp;&emsp;&emsp;李锦 - 俄亥俄州立大学，博士在读    
 &emsp;&emsp;&emsp;&emsp;刘伊君 - 南加州大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;陈率 - 北京师范大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;张天宇 - 俄亥俄州立大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;杨宇宏 - 奥胡斯大学，博士在读  
-&emsp;&emsp;&emsp;&emsp;李宇航 - 澳门大学，博士在读  
-&emsp;&emsp;&emsp;&emsp;王欣雨 - 清华大学，博士在读  
+&emsp;&emsp;&emsp;&emsp;李宇航 - 澳门大学，博士在读    
 &emsp;&emsp;&emsp;&emsp;李东伟 - 北京师范大学珠海分校，助理教授  
 &emsp;&emsp;&emsp;&emsp;程帆 - 京都大学，博士毕业  
 &emsp;&emsp;&emsp;&emsp;程羽慧 - 南京师范大学，讲师  
+&emsp;&emsp;&emsp;&emsp;王一乐 - 德州大学达拉斯分校，博士在读
 
 * 曾经的成员：
 
@@ -44,12 +42,15 @@
 &emsp;&emsp;&emsp;&emsp;孙政辉 - 南京师范大学  
 &emsp;&emsp;&emsp;&emsp;刘庆芳 - 西北大学  
 &emsp;&emsp;&emsp;&emsp;万芊芊 - 俄亥俄州立大学  
-&emsp;&emsp;&emsp;&emsp;赵福君 - 北京儿童医院睡眠中心，主任医师  
-&emsp;&emsp;&emsp;&emsp;冉孟馨 - 俄亥俄州立大学，本科在读  
-&emsp;&emsp;&emsp;&emsp;王世玉 - 华东师范大学，博士在读  
-&emsp;&emsp;&emsp;&emsp;张梓垚 - 德州大学奥斯汀分校，博士在读  
-&emsp;&emsp;&emsp;&emsp;哈斯巴根 - 华南师范大学，硕士在读  
-&emsp;&emsp;&emsp;&emsp;李思成 - 天津大学，硕士在读  
+&emsp;&emsp;&emsp;&emsp;赵福君 - 北京儿童医院睡眠中心  
+&emsp;&emsp;&emsp;&emsp;冉孟馨 - 俄亥俄州立大学  
+&emsp;&emsp;&emsp;&emsp;王世玉 - 华东师范大学  
+&emsp;&emsp;&emsp;&emsp;张梓垚 - 德州大学奥斯汀分校  
+&emsp;&emsp;&emsp;&emsp;哈斯巴根 - 华南师范大学  
+&emsp;&emsp;&emsp;&emsp;李思成 - 天津大学  
+&emsp;&emsp;&emsp;&emsp;黄静雅 - 根特大学  
+&emsp;&emsp;&emsp;&emsp;李慧玲 - 华东师范大学
+&emsp;&emsp;&emsp;&emsp;王欣雨 - 清华大学
 
 * 小组活动形式：
 
