@@ -558,9 +558,17 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：黄静雅，李慧玲  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年10月21日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第XXX期：XXX  
+&emsp;&emsp;&emsp;&emsp;第116期：Consolidation enhances multistep anticipatory judgements but diminishes access to perceptual features  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年10月28日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第117期：[Talk] Visual word form area, a window into the functionalspecificity, origins, and development of category-selective regions  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李锦  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年12月1日早9：00
+
+&emsp;&emsp;&emsp;&emsp;第118期：[Invited Talk] The causal roles of parietal alpha oscillations and evoked potentials in coding task-relevant information during selective attention  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：陆润豪（剑桥大学，博士在读）  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年12月9日晚10：00
 
 &emsp;&emsp;&emsp;&emsp;第XXX期：Understanding Human Object Vision: A Picture Is Worth a Thousand Representations  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李嘉琪，路子童  
