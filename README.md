@@ -623,7 +623,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：黄莘扬（杜克大学，博士在读）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年4月30日晚10：00
 
-&emsp;&emsp;&emsp;&emsp;第132期：[Talk] Exploring human vision through Img2EEG:An encoding framework generating high-resolution temporal EEG signals from visual inputs  
+&emsp;&emsp;&emsp;&emsp;第132期：[Talk] Exploring human vision through Img2EEG: An encoding framework generating high-resolution temporal EEG signals from visual inputs  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年5月11日早10：00
 
