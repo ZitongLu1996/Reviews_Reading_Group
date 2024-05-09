@@ -611,86 +611,94 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：聂露  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年3月30日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：自选文献  
+&emsp;&emsp;&emsp;&emsp;第129期：自选文献  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：杨力  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年4月20日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：自选文献  
+&emsp;&emsp;&emsp;&emsp;第130期：自选文献  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：王一乐  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年4月27日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 5 - Cognitive development and unsupervised learning  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李东伟  
+&emsp;&emsp;&emsp;&emsp;第131期：[Invited Talk] Item-wise representational strength enables trial-level analyses of brain-behavior relationships  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：黄莘扬（杜克大学，博士在读）  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年4月30日晚10：00
+
+&emsp;&emsp;&emsp;&emsp;第132期：[Talk] Exploring human vision through Img2EEG:An encoding framework generating high-resolution temporal EEG signals from visual inputs  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年5月11日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 6 - Self-supervised learning  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李婉如  
+&emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 5 - Cognitive development and unsupervised learning  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李东伟  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年6月15日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：Word Meaning in Minds and Machines  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉，路子童  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年6月22日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年6月29日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：自选文献  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：程帆  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年6月29日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年7月6日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 6 - Self-supervised learning  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李婉如  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年7月13日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：Serial Dependence in Perception  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：程羽慧，李东伟  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年7月6日早10：00
-
-&emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 7 - Recurrence  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李嘉琪  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年7月13日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年7月20日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：自选文献  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：刘伊君  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年7月20日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年7月27日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：How to build a cognitive map  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：程帆，陈率  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年7月27日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年8月3日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 7 - Recurrence  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李嘉琪  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年8月17日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：自选文献  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年8月3日早10：00
-
-&emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 8 - Language modelling  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：杨宇宏  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年8月17日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年8月24日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：Polar angle asymmetries in visual perception and neural architecture  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李婉如，王一乐  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年8月24日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年8月31日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：自选文献  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：梁耀文  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年8月31日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年9月7日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 8 - Language modelling  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：杨宇宏  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年9月14日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：Perception and Memory in the Ventral Visual Stream and Medial Temporal Lobe  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李嘉琪，聂露  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年9月7日早10：00
-
-&emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 9 - Embodiment  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：孙嘉秋  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年9月14日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年9月21日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：自选文献  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年9月21日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年9月28日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 9 - Embodiment  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：孙嘉秋  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年10月12日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：Seeing social interactions  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李宇航，李锦  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年9月28日早10：00
-
-&emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 10 - Problems and ways in which biology could solve them  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年10月12日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年10月19日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：自选文献  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李东伟  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年10月19日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年10月26日早10：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：Getting aligned on representational alignment  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：刘伊君，路子童，李婉如  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年10月26日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年11月2日早10：00
+
+&emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 10 - Problems and ways in which biology could solve them  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年11月16日早10：00
