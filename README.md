@@ -17,7 +17,6 @@
 &emsp;&emsp;&emsp;&emsp;李婉如 - 北京大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;马小巾 - 密苏里大学，博后  
 &emsp;&emsp;&emsp;&emsp;李锦 - 俄亥俄州立大学，博士在读    
-&emsp;&emsp;&emsp;&emsp;刘伊君 - 南加州大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;陈率 - 北京师范大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;张天宇 - 俄亥俄州立大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;杨宇宏 - 奥胡斯大学，博士在读  
@@ -50,7 +49,8 @@
 &emsp;&emsp;&emsp;&emsp;李思成 - 天津大学  
 &emsp;&emsp;&emsp;&emsp;黄静雅 - 根特大学  
 &emsp;&emsp;&emsp;&emsp;李慧玲 - 华东师范大学  
-&emsp;&emsp;&emsp;&emsp;王欣雨 - 清华大学
+&emsp;&emsp;&emsp;&emsp;王欣雨 - 清华大学  
+&emsp;&emsp;&emsp;&emsp;刘伊君 - 南加州大学，博士在读  
 
 * 小组活动形式：
 
