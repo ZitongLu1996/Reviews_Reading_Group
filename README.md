@@ -626,11 +626,11 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年5月11日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：Word Meaning in Minds and Machines  
+&emsp;&emsp;&emsp;&emsp;第133期：Word Meaning in Minds and Machines  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉，路子童  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年7月13日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 6 - Self-supervised learning  
+&emsp;&emsp;&emsp;&emsp;第134期：[ML in CogNeuro] Section 6 - Self-supervised learning  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李婉如  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年7月20日晚22：00
 
