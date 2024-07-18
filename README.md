@@ -633,11 +633,11 @@
 
 &emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 6 - Self-supervised learning  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李婉如  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年7月20日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年7月20日晚22：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：自选文献  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：程帆  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年7月27日早10：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年7月27日晚22：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：Serial Dependence in Perception  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：程羽慧，李东伟  
