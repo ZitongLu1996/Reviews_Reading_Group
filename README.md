@@ -18,39 +18,41 @@
 &emsp;&emsp;&emsp;&emsp;李锦 - 佐治亚理工大学，博后    
 &emsp;&emsp;&emsp;&emsp;陈率 - 北京师范大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;张天宇 - 俄亥俄州立大学，博士在读  
-&emsp;&emsp;&emsp;&emsp;杨宇宏 - 奥胡斯大学，博士在读  
-&emsp;&emsp;&emsp;&emsp;李宇航 - 澳门大学，博士在读    
+&emsp;&emsp;&emsp;&emsp;杨宇宏 - 奥胡斯大学，博士在读   
 &emsp;&emsp;&emsp;&emsp;李东伟 - 北京师范大学珠海分校，助理教授  
 &emsp;&emsp;&emsp;&emsp;程帆 - 哥伦比亚大学，博后  
 &emsp;&emsp;&emsp;&emsp;程羽慧 - 南京师范大学，讲师  
-&emsp;&emsp;&emsp;&emsp;王一乐 - 德州大学达拉斯分校，博士在读
+&emsp;&emsp;&emsp;&emsp;王一乐 - 德州大学达拉斯分校，博士在读  
+&emsp;&emsp;&emsp;&emsp;宫栋宇 - 耶鲁大学，博士在读  
+&emsp;&emsp;&emsp;&emsp;刘潇忆 - 普林斯顿大学，博士在读
 
 * 曾经的成员：
 
-&emsp;&emsp;&emsp;&emsp;罗熙康 - 华东师范大学  
-&emsp;&emsp;&emsp;&emsp;陈慧芳 - 山东师范大学  
-&emsp;&emsp;&emsp;&emsp;沈云云 - 法国国家研究中心  
-&emsp;&emsp;&emsp;&emsp;黄杰 - 苏州大学  
-&emsp;&emsp;&emsp;&emsp;陈新文 - 华南师范大学  
-&emsp;&emsp;&emsp;&emsp;彭茂妙 - 亚利桑那大学  
-&emsp;&emsp;&emsp;&emsp;史春妍 - 华南师范大学  
-&emsp;&emsp;&emsp;&emsp;雷晓璇 - 麦吉尔大学  
-&emsp;&emsp;&emsp;&emsp;杜彧 - 亚利桑那大学  
-&emsp;&emsp;&emsp;&emsp;彭泰 - 台湾国立清华大学  
-&emsp;&emsp;&emsp;&emsp;孙政辉 - 南京师范大学  
-&emsp;&emsp;&emsp;&emsp;刘庆芳 - 西北大学  
-&emsp;&emsp;&emsp;&emsp;万芊芊 - 俄亥俄州立大学  
-&emsp;&emsp;&emsp;&emsp;赵福君 - 北京儿童医院睡眠中心  
-&emsp;&emsp;&emsp;&emsp;冉孟馨 - 俄亥俄州立大学  
-&emsp;&emsp;&emsp;&emsp;王世玉 - 华东师范大学  
-&emsp;&emsp;&emsp;&emsp;张梓垚 - 德州大学奥斯汀分校  
-&emsp;&emsp;&emsp;&emsp;哈斯巴根 - 华南师范大学  
-&emsp;&emsp;&emsp;&emsp;李思成 - 天津大学  
-&emsp;&emsp;&emsp;&emsp;黄静雅 - 根特大学  
-&emsp;&emsp;&emsp;&emsp;李慧玲 - 华东师范大学  
-&emsp;&emsp;&emsp;&emsp;王欣雨 - 清华大学  
-&emsp;&emsp;&emsp;&emsp;刘伊君 - 南加州大学，博士在读  
-&emsp;&emsp;&emsp;&emsp;杨力 - 加州大学河滨分校，博士在读  
+&emsp;&emsp;&emsp;&emsp;罗熙康 
+&emsp;&emsp;&emsp;&emsp;陈慧芳  
+&emsp;&emsp;&emsp;&emsp;沈云云  
+&emsp;&emsp;&emsp;&emsp;黄杰  
+&emsp;&emsp;&emsp;&emsp;陈新文  
+&emsp;&emsp;&emsp;&emsp;彭茂妙  
+&emsp;&emsp;&emsp;&emsp;史春妍  
+&emsp;&emsp;&emsp;&emsp;雷晓璇  
+&emsp;&emsp;&emsp;&emsp;杜彧  
+&emsp;&emsp;&emsp;&emsp;彭泰  
+&emsp;&emsp;&emsp;&emsp;孙政辉  
+&emsp;&emsp;&emsp;&emsp;刘庆芳  
+&emsp;&emsp;&emsp;&emsp;万芊芊  
+&emsp;&emsp;&emsp;&emsp;赵福君  
+&emsp;&emsp;&emsp;&emsp;冉孟馨  
+&emsp;&emsp;&emsp;&emsp;王世玉  
+&emsp;&emsp;&emsp;&emsp;张梓垚  
+&emsp;&emsp;&emsp;&emsp;哈斯巴根  
+&emsp;&emsp;&emsp;&emsp;李思成  
+&emsp;&emsp;&emsp;&emsp;黄静雅  
+&emsp;&emsp;&emsp;&emsp;李慧玲  
+&emsp;&emsp;&emsp;&emsp;王欣雨  
+&emsp;&emsp;&emsp;&emsp;刘伊君  
+&emsp;&emsp;&emsp;&emsp;杨力  
+&emsp;&emsp;&emsp;&emsp;李宇航   
 
 * 小组活动形式：
 
