@@ -28,7 +28,7 @@
 
 * 曾经的成员：
 
-&emsp;&emsp;&emsp;&emsp;罗熙康 
+&emsp;&emsp;&emsp;&emsp;罗熙康  
 &emsp;&emsp;&emsp;&emsp;陈慧芳  
 &emsp;&emsp;&emsp;&emsp;沈云云  
 &emsp;&emsp;&emsp;&emsp;黄杰  
