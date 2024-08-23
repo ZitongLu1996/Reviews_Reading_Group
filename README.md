@@ -648,17 +648,13 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李嘉琪  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年8月17日晚22：00
 
-&emsp;&emsp;&emsp;&emsp;第138期：How to build a cognitive map  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：程帆，陈率  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年8月24日晚22：00
-
-&emsp;&emsp;&emsp;&emsp;第139期：[Invited Talk] 从发声思维当中理解人类的想法：一个基于大语言模型的途径    
+&emsp;&emsp;&emsp;&emsp;第138期：[Invited Talk] 从发声思维当中理解人类的想法：一个基于大语言模型的途径    
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：谢涵博（佐治亚理工大学，博士在读）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年8月28日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：自选文献  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年8月31日晚22：00
+&emsp;&emsp;&emsp;&emsp;第139期：How to build a cognitive map  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：程帆，陈率  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年8月24日晚22：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：Polar angle asymmetries in visual perception and neural architecture  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李婉如，王一乐  
@@ -717,7 +713,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年1月4日晚22：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：自选文献  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：刘潇忆  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年1月11日晚22：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：Dissociating language and thought in large language models. Trends in Cognitive Sciences  
@@ -741,7 +737,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年3月1日晚22：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：自选文献  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：刘潇忆  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年3月8日晚22：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：Quality space computations for consciousness  
@@ -749,7 +745,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年3月22日晚22：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：自选文献  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年4月12日晚22：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：Predicting attentional allocation in real‐world environments: The need to investigate crossmodal semantic guidance  
