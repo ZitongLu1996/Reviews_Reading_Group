@@ -656,21 +656,25 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：程帆，陈率  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年8月24日晚22：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：Polar angle asymmetries in visual perception and neural architecture  
+&emsp;&emsp;&emsp;&emsp;第140期：Polar angle asymmetries in visual perception and neural architecture  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李婉如，王一乐  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年9月7日晚22：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：[Invited Talk]     
+&emsp;&emsp;&emsp;&emsp;第141期：[Invited Talk]     
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：博克（达特茅斯学院，博后）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年9月11日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 5 - Cognitive development and unsupervised learning  
+&emsp;&emsp;&emsp;&emsp;第142期：[ML in CogNeuro] Section 5 - Cognitive development and unsupervised learning  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李东伟  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年9月21日晚22：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：自选文献  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：梁耀文  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年9月28日晚22：00
+
+&emsp;&emsp;&emsp;&emsp;第X期：[Invited Talk]  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：杨国春（爱荷华大学，博后）  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年10月3日早22：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 8 - Language modelling  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：杨宇宏  
