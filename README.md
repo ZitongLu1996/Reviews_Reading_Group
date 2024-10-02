@@ -600,7 +600,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2023年3月9日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第126期：自选文献  
+&emsp;&emsp;&emsp;&emsp;第126期：Shared intentionality modulates interpersonal neural synchronization at the establishment of communication system  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李宇航  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年3月16日早10：00
 
@@ -608,15 +608,15 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：梁耀文，孙嘉秋  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年3月23日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第128期：自选文献  
+&emsp;&emsp;&emsp;&emsp;第128期：Rhythmic temporal coordination of neural activity prevents representational conflict during working memory  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：聂露  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年3月30日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第129期：自选文献  
+&emsp;&emsp;&emsp;&emsp;第129期：Time for memories  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：杨力  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年4月20日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第130期：自选文献  
+&emsp;&emsp;&emsp;&emsp;第130期：Alzheimer disease a disease?  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：王一乐  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年4月27日早10：00
 
@@ -636,7 +636,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李婉如  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年7月20日晚22：00
 
-&emsp;&emsp;&emsp;&emsp;第135期：自选文献  
+&emsp;&emsp;&emsp;&emsp;第135期：Temporal multiplexing of perception and memory codes in IT cortex  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：程帆  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年7月27日晚22：00
 
@@ -660,7 +660,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李婉如，王一乐  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年9月7日晚22：00
 
-&emsp;&emsp;&emsp;&emsp;第141期：[Invited Talk]     
+&emsp;&emsp;&emsp;&emsp;第141期：[Invited Talk] A systems identification approach using Bayes factors to deconstruct the brain bases of emotion regulation  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：博克（达特茅斯学院，博后）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年9月11日早10：00
 
@@ -668,17 +668,13 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李东伟  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年9月21日晚22：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：自选文献  
+&emsp;&emsp;&emsp;&emsp;第143期：[Talk] 分散学习带来提取阶段更多的表征差异-基于EEG temporal-spatial cluster的分析  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：梁耀文  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年9月28日晚22：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：[Invited Talk]  
+&emsp;&emsp;&emsp;&emsp;第144期：[Invited Talk] Multi-form representation of sequential tasks  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：杨国春（爱荷华大学，博后）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年10月3日早22：00
-
-&emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 8 - Language modelling  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：杨宇宏  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年10月19日晚22：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：Perception and Memory in the Ventral Visual Stream and Medial Temporal Lobe  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李嘉琪，聂露  
@@ -692,16 +688,16 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：马小巾，刘潇忆  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年11月9日晚22：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 9 - Embodiment  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：孙嘉秋  
+&emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 8 - Language modelling  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：杨宇宏  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年11月16日晚22：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：自选文献  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李东伟  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：梁耀文  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年12月7日晚22：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 10 - Problems and ways in which biology could solve them  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉  
+&emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 9 - Embodiment  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：孙嘉秋  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年12月14日晚22：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：Language in brains, minds, and machines  
@@ -716,7 +712,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：梁耀文，张天宇  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年1月4日晚22：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：自选文献  
+&emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 10 - Problems and ways in which biology could solve them  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年1月11日晚22：00
 
@@ -755,3 +751,4 @@
 &emsp;&emsp;&emsp;&emsp;第X期：Predicting attentional allocation in real‐world environments: The need to investigate crossmodal semantic guidance  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李东伟，聂露  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年4月19日晚22：00
+
