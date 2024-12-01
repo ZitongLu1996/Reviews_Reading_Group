@@ -16,7 +16,6 @@
 &emsp;&emsp;&emsp;&emsp;李婉如 - 北京大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;马小巾 - 密苏里大学，博后  
 &emsp;&emsp;&emsp;&emsp;李锦 - 佐治亚理工大学，博后    
-&emsp;&emsp;&emsp;&emsp;陈率 - 北京师范大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;张天宇 - 俄亥俄州立大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;杨宇宏 - 奥胡斯大学，博士在读   
 &emsp;&emsp;&emsp;&emsp;李东伟 - 北京师范大学珠海分校，助理教授  
@@ -24,7 +23,8 @@
 &emsp;&emsp;&emsp;&emsp;程羽慧 - 南京师范大学，讲师  
 &emsp;&emsp;&emsp;&emsp;王一乐 - 德州大学达拉斯分校，博士在读  
 &emsp;&emsp;&emsp;&emsp;宫栋宇 - 耶鲁大学，博士在读  
-&emsp;&emsp;&emsp;&emsp;刘潇忆 - 普林斯顿大学，博士在读
+&emsp;&emsp;&emsp;&emsp;刘潇忆 - 普林斯顿大学，博士在读  
+&emsp;&emsp;&emsp;&emsp;王思思 - 阿姆斯特丹自由大学，博后
 
 * 曾经的成员：
 
@@ -52,7 +52,8 @@
 &emsp;&emsp;&emsp;&emsp;王欣雨  
 &emsp;&emsp;&emsp;&emsp;刘伊君  
 &emsp;&emsp;&emsp;&emsp;杨力  
-&emsp;&emsp;&emsp;&emsp;李宇航   
+&emsp;&emsp;&emsp;&emsp;李宇航  
+&emsp;&emsp;&emsp;&emsp;陈率  
 
 * 小组活动形式：
 
@@ -676,83 +677,83 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：杨国春（爱荷华大学，博后）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年10月3日早22：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：Perception and Memory in the Ventral Visual Stream and Medial Temporal Lobe  
+&emsp;&emsp;&emsp;&emsp;第145期：Perception and Memory in the Ventral Visual Stream and Medial Temporal Lobe  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李嘉琪，聂露  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年10月26日晚22：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：自选文献  
+&emsp;&emsp;&emsp;&emsp;第146期：Spontaneous eye movements reflect the representational geometries of conceptual spaces  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年11月4日晚22：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：Are neuronal mechanisms of attention universal across human sensory and motor brain maps?  
+&emsp;&emsp;&emsp;&emsp;第147期：Are neuronal mechanisms of attention universal across human sensory and motor brain maps?  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：马小巾，刘潇忆  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年11月12日晚22：30
 
-&emsp;&emsp;&emsp;&emsp;第144期：[Invited Talk] Optimizing Memory: How Attention, Learning, and Neuromodulation Shape Working Memory    
+&emsp;&emsp;&emsp;&emsp;第148期：[Invited Talk] Optimizing Memory: How Attention, Learning, and Neuromodulation Shape Working Memory    
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：王思思（阿姆斯特丹自由大学，博后）  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年11月19日早22：00
-
-&emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 8 - Language modelling  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：杨宇宏  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年11月25日晚22：00
-
-&emsp;&emsp;&emsp;&emsp;第X期：自选文献  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：梁耀文  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年12月2日晚22：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 9 - Embodiment  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：孙嘉秋  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年12月9日晚22：00
 
+&emsp;&emsp;&emsp;&emsp;第X期：自选文献  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：梁耀文  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年12月16日晚22：00
+
 &emsp;&emsp;&emsp;&emsp;第X期：Language in brains, minds, and machines  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李锦，路子童  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年12月16日晚22：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年12月23日晚22：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：自选文献  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：宫栋宇  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年12月23日晚22：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年1月6日晚22：00
+
+&emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 8 - Language modelling  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：杨宇宏  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年1月13日晚22：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：Is working memory domain-general or domain-specific? Trends in Cognitive Sciences  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：梁耀文，张天宇  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年1月6日晚22：00
-
-&emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 10 - Problems and ways in which biology could solve them  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年1月13日晚22：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年1月20日晚22：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：Dissociating language and thought in large language models. Trends in Cognitive Sciences  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：程帆，杨宇宏  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年1月20日晚22：00
-
-&emsp;&emsp;&emsp;&emsp;第X期：自选文献  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：程羽慧  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年1月27日晚22：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：Computational role of structure in neural activity and connectivity. Trends in Cognitive Sciences  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉，宫栋宇  
+&emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 10 - Problems and ways in which biology could solve them  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年2月17日晚22：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：自选文献  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李婉如  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：程羽慧  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年2月24日晚22：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：The language network as a natural kind within the broader landscape of the human brain.  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李嘉琪，路子童  
+&emsp;&emsp;&emsp;&emsp;第X期：Computational role of structure in neural activity and connectivity. Trends in Cognitive Sciences  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉，宫栋宇  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年3月3日晚22：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：自选文献  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：刘潇忆  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年3月10日晚22：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李婉如  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年3月10日晚22：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：Quality space computations for consciousness  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：孙嘉秋，王一乐  
+&emsp;&emsp;&emsp;&emsp;第X期：The language network as a natural kind within the broader landscape of the human brain.  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李嘉琪，路子童  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年3月24日晚22：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：自选文献  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：刘潇忆  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年4月14日晚22：00
+
+&emsp;&emsp;&emsp;&emsp;第X期：Quality space computations for consciousness  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：孙嘉秋，王一乐  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年4月21日晚22：00
+
+&emsp;&emsp;&emsp;&emsp;第X期：自选文献  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年4月28日晚22：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：Predicting attentional allocation in real‐world environments: The need to investigate crossmodal semantic guidance  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李东伟，聂露  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年4月21日晚22：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年5月12日晚22：00
 
