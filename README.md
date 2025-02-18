@@ -726,7 +726,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年2月12日晚22：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：Dissociating language and thought in large language models. Trends in Cognitive Sciences  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：程帆，杨宇宏  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：程帆
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年2月19日晚22：00
 
 &emsp;&emsp;&emsp;&emsp;第X期：自选文献  
