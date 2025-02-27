@@ -729,6 +729,10 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：程帆
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年2月19日晚22：00
 
+&emsp;&emsp;&emsp;&emsp;第X期：[Invited Talk]  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：邹富渟  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年3月6日早10：00
+
 &emsp;&emsp;&emsp;&emsp;第X期：Computational role of structure in neural activity and connectivity. Trends in Cognitive Sciences  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉，宫栋宇  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年3月12日晚22：00
