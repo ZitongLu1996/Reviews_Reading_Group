@@ -54,6 +54,7 @@
 &emsp;&emsp;&emsp;&emsp;杨力  
 &emsp;&emsp;&emsp;&emsp;李宇航  
 &emsp;&emsp;&emsp;&emsp;陈率  
+&emsp;&emsp;&emsp;&emsp;杨宇宏  
 
 * 小组活动形式：
 
