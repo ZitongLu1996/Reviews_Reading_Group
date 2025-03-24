@@ -721,27 +721,27 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：宫栋宇  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年2月5日晚22：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：Is working memory domain-general or domain-specific? Trends in Cognitive Sciences  
+&emsp;&emsp;&emsp;&emsp;第156期：Is working memory domain-general or domain-specific? Trends in Cognitive Sciences  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：梁耀文，张天宇  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年2月12日晚22：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：Dissociating language and thought in large language models. Trends in Cognitive Sciences  
+&emsp;&emsp;&emsp;&emsp;第157期：Dissociating language and thought in large language models. Trends in Cognitive Sciences  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：程帆
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年2月19日晚22：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：[Invited Talk]  
+&emsp;&emsp;&emsp;&emsp;第158期：[Invited Talk]  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：邹富渟  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年3月6日早10：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：Computational role of structure in neural activity and connectivity. Trends in Cognitive Sciences  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉，宫栋宇  
+&emsp;&emsp;&emsp;&emsp;第159期：Computational role of structure in neural activity and connectivity. Trends in Cognitive Sciences  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年3月12日晚22：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：自选文献  
+&emsp;&emsp;&emsp;&emsp;第160期：Neuronal sequences in population bursts encode information in human cortex.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李婉如  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年3月19日晚22：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：The language network as a natural kind within the broader landscape of the human brain.  
+&emsp;&emsp;&emsp;&emsp;第161期：Sequence chunking through neural encoding of ordinal positions. Trends in Cognitive Sciences  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李嘉琪，路子童  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年3月26日晚22：00
 
