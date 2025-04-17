@@ -746,23 +746,27 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李嘉琪，路子童  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年3月26日晚22：00
 
-&emsp;&emsp;&emsp;&emsp;第X期：自选文献  
+&emsp;&emsp;&emsp;&emsp;第162期：Using deep neural networks to disentangle visual and semantic information in human perception and memory.  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：程羽慧  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年4月2日晚22：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年4月2日晚21：30
+
+&emsp;&emsp;&emsp;&emsp;第163期：[Talk] Learning and sleep reshape the representational geometry of visual experiences     
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年4月9日晚21：30
 
 &emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 10 - Problems and ways in which biology could solve them  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年4月9日晚22：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年4月16日晚21：30
 
 &emsp;&emsp;&emsp;&emsp;第X期：自选文献  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：刘潇忆  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年4月16日晚22：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年4月23日晚21：30
 
 &emsp;&emsp;&emsp;&emsp;第X期：Quality space computations for consciousness  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：孙嘉秋，王一乐  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年4月23日晚22：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年4月30日晚21：30
 
 &emsp;&emsp;&emsp;&emsp;第X期：Predicting attentional allocation in real‐world environments: The need to investigate crossmodal semantic guidance  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李东伟，聂露  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年4月30日晚22：00
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年5月7日晚21：30
 
