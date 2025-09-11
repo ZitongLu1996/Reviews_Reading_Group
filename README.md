@@ -730,7 +730,7 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：程帆
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年2月19日晚22：00
 
-&emsp;&emsp;&emsp;&emsp;第158期：[Invited Talk]  
+&emsp;&emsp;&emsp;&emsp;第158期：[Invited Talk] Temporal context reinstatement across repeated stimulus encounters  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：邹富渟  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年3月6日早10：00
 
@@ -754,19 +754,51 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年4月9日晚21：30
 
-&emsp;&emsp;&emsp;&emsp;第X期：[ML in CogNeuro] Section 10 - Problems and ways in which biology could solve them  
+&emsp;&emsp;&emsp;&emsp;第164期：[ML in CogNeuro] Section 10 - Problems and ways in which biology could solve them  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年4月16日晚21：30
 
-&emsp;&emsp;&emsp;&emsp;第X期：自选文献  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：刘潇忆  
+&emsp;&emsp;&emsp;&emsp;第165期：[Talk] Unfolding saptiotemporal representations of 3D perception based on a large fMRI-EEG dataset (> 6,6000 trials in total)  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2024年4月23日晚21：30
 
-&emsp;&emsp;&emsp;&emsp;第X期：Quality space computations for consciousness  
+&emsp;&emsp;&emsp;&emsp;第166期：Quality space computations for consciousness  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：孙嘉秋，王一乐  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年4月30日晚21：30
-
-&emsp;&emsp;&emsp;&emsp;第X期：Predicting attentional allocation in real‐world environments: The need to investigate crossmodal semantic guidance  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李东伟，聂露  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年5月7日晚21：30
+
+&emsp;&emsp;&emsp;&emsp;第167期：Predicting attentional allocation in real‐world environments: The need to investigate crossmodal semantic guidance  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李东伟，聂露  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年5月28日晚21：30
+
+&emsp;&emsp;&emsp;&emsp;第168期：Errors of attention adaptively warp spatial  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：马小巾  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年6月1日晚21：30
+
+&emsp;&emsp;&emsp;&emsp;第169期：A shared model-based linguistic space for transmitting our thoughts from brain to brain in natural conversations  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李锦  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年6月25日晚21：30
+
+&emsp;&emsp;&emsp;&emsp;第170期：An illusion of time caused by repeated experience  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：张天宇  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年7月16日晚21：30
+
+&emsp;&emsp;&emsp;&emsp;第171期：Time-dependent consolidation mechanisms of durable memory in spaced learning  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：梁耀文  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年7月23日晚21：30
+
+&emsp;&emsp;&emsp;&emsp;第172期：Zero-shot counting with a dual-stream neural network model  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：程帆  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年8月6日晚21：30
+
+&emsp;&emsp;&emsp;&emsp;第173期：The psychophysics of style  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李婉如  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年8月13日晚21：30
+
+&emsp;&emsp;&emsp;&emsp;第174期：A polar coordinate system represents syntax in large language models  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：李嘉琪  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年8月27日晚21：30
+
+&emsp;&emsp;&emsp;&emsp;第175期：Cognitive maps for a non-Euclidean environment: path integration and spatial memory on a sphere  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年9月3日晚21：30
 
