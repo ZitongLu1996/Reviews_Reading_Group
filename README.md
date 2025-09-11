@@ -7,24 +7,18 @@
 
 * 小组成员：
 
-&emsp;&emsp;&emsp;&emsp;路子童 - 俄亥俄州立大学，博士在读  
+&emsp;&emsp;&emsp;&emsp;路子童 - 麻省理工学院，博后  
 &emsp;&emsp;&emsp;&emsp;李嘉琪 -	北京大学/伯明翰大学，博后  
 &emsp;&emsp;&emsp;&emsp;梁耀文 -	北京师范大学，研究助理  
 &emsp;&emsp;&emsp;&emsp;何贤辉 - 牛津大学，博士在读  
-&emsp;&emsp;&emsp;&emsp;聂露 - 中山大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;孙嘉秋 - 上海纽约大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;李婉如 - 北京大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;马小巾 - 密苏里大学，博后  
 &emsp;&emsp;&emsp;&emsp;李锦 - 佐治亚理工大学，博后    
-&emsp;&emsp;&emsp;&emsp;张天宇 - 俄亥俄州立大学，博士在读  
-&emsp;&emsp;&emsp;&emsp;杨宇宏 - 奥胡斯大学，博士在读   
-&emsp;&emsp;&emsp;&emsp;李东伟 - 北京师范大学珠海分校，助理教授  
+&emsp;&emsp;&emsp;&emsp;张天宇 - 俄亥俄州立大学，博士在读   
 &emsp;&emsp;&emsp;&emsp;程帆 - 哥伦比亚大学，博后  
-&emsp;&emsp;&emsp;&emsp;程羽慧 - 南京师范大学，讲师  
 &emsp;&emsp;&emsp;&emsp;王一乐 - 德州大学达拉斯分校，博士在读  
-&emsp;&emsp;&emsp;&emsp;宫栋宇 - 耶鲁大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;刘潇忆 - 普林斯顿大学，博士在读  
-&emsp;&emsp;&emsp;&emsp;王思思 - 阿姆斯特丹自由大学，博后
 
 * 曾经的成员：
 
@@ -54,7 +48,13 @@
 &emsp;&emsp;&emsp;&emsp;杨力  
 &emsp;&emsp;&emsp;&emsp;李宇航  
 &emsp;&emsp;&emsp;&emsp;陈率  
-&emsp;&emsp;&emsp;&emsp;杨宇宏  
+&emsp;&emsp;&emsp;&emsp;杨宇宏   
+&emsp;&emsp;&emsp;&emsp;王思思   
+&emsp;&emsp;&emsp;&emsp;宫栋宇   
+&emsp;&emsp;&emsp;&emsp;程羽慧   
+&emsp;&emsp;&emsp;&emsp;李东伟   
+&emsp;&emsp;&emsp;&emsp;聂露
+
 
 * 小组活动形式：
 
