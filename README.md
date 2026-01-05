@@ -15,10 +15,8 @@
 &emsp;&emsp;&emsp;&emsp;李婉如 - 北京大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;马小巾 - 密苏里大学，博后  
 &emsp;&emsp;&emsp;&emsp;李锦 - 佐治亚理工大学，博后    
-&emsp;&emsp;&emsp;&emsp;张天宇 - 俄亥俄州立大学，博士在读   
-&emsp;&emsp;&emsp;&emsp;程帆 - 哥伦比亚大学，博后  
+&emsp;&emsp;&emsp;&emsp;张天宇 - 俄亥俄州立大学，博士在读  
 &emsp;&emsp;&emsp;&emsp;王一乐 - 德州大学达拉斯分校，博士在读  
-&emsp;&emsp;&emsp;&emsp;刘潇忆 - 普林斯顿大学，博士在读  
 
 * 曾经的成员：
 
@@ -53,7 +51,9 @@
 &emsp;&emsp;&emsp;&emsp;宫栋宇   
 &emsp;&emsp;&emsp;&emsp;程羽慧   
 &emsp;&emsp;&emsp;&emsp;李东伟   
-&emsp;&emsp;&emsp;&emsp;聂露
+&emsp;&emsp;&emsp;&emsp;聂露   
+&emsp;&emsp;&emsp;&emsp;刘潇忆   
+&emsp;&emsp;&emsp;&emsp;程帆
 
 
 * 小组活动形式：
