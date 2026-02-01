@@ -802,3 +802,43 @@
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年9月3日晚21：30
 
+&emsp;&emsp;&emsp;&emsp;第176期：Neural and behavioral reinstatement jointly reflect retrieval of narrative events  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年9月17日晚21：30
+
+&emsp;&emsp;&emsp;&emsp;第177期：[Invited Talk] Different Routes, Different Outcomes: Comparing Human and Artificial Language Learning  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：徐启慧（俄亥俄州立大学，博后）  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年9月24日晚21：30
+
+&emsp;&emsp;&emsp;&emsp;第178期：Echoes in ai: Quantifying lack of plot diversity in llm outputs  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：孙嘉秋  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年10月8日晚21：30
+
+&emsp;&emsp;&emsp;&emsp;第179期：The geometry of representational drift in natural and artificial neural networks  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：王一乐  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年10月22日晚21：30
+
+&emsp;&emsp;&emsp;&emsp;第180期：Signal intrusion explains divergent effects of visual distraction on working memory  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：马小巾  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年10月29日晚21：30
+
+&emsp;&emsp;&emsp;&emsp;第181期：From retinotopic to ordinal coding: Dissecting the cortical stages of visual word recognition  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：路子童  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年11月12日晚22：00
+
+&emsp;&emsp;&emsp;&emsp;第182期：Beta and theta oscillations track effort and previous reward in the human basal ganglia and prefrontal cortex during decision making  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：张天宇  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2025年12月10日晚22：00
+
+&emsp;&emsp;&emsp;&emsp;第183期：Perceiving event structure in brief actions  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：何贤辉  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2026年1月14日晚22：00
+
+&emsp;&emsp;&emsp;&emsp;第184期：Charting trajectories of human thought using large language models  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：孙嘉秋  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2026年1月21日晚22：00
+
+&emsp;&emsp;&emsp;&emsp;第185期：Is working memory a gateway to long-term memory?  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;报告人：王一乐  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;时间：2026年1月28日晚22：00
+
